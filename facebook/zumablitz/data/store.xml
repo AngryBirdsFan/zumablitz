@@ -1,0 +1,21 @@
+﻿<store>
+	<tab category="mojo" id="1" image_enabled="images/store/mojo_icon_on.png" image_disabled="images/store/mojo_icon_off.png">
+		<item sku="mojo1" image="images/store/mojo1.png" />
+		<item sku="mojo2" image="images/store/mojo2.png" />
+		<item sku="mojo3" image="images/store/mojo3.png" />
+		<item sku="mojo4" image="images/store/mojo4.png" />
+		<item sku="mojo5" image="images/store/mojo5.png" />
+	</tab>
+	<tab category="life" id="2" image_enabled="images/store/life_icon_on.png" image_disabled="images/store/life_icon_off.png">
+		<item sku="lifeonce" image="images/store/life_icon_on.png" />
+		<item sku="life24hr" image="images/store/life_icon_24_hour.png" />
+	</tab>	
+	<tab category="potion" id="3" image_enabled="images/store/potions_icon_on.png" image_disabled="images/store/potions_icon_off.png">
+		<item sku="mojopotion24hr2x" image="images/store/mojo_potion2.png" />
+		<item sku="mojopotion1" image="images/store/mojo_potion1.png" />
+		<item sku="mojopotion2" image="images/store/mojo_potion3.png" />
+		<item sku="xppotion24hr2x" image="images/store/xp_potion2.png" />
+		<item sku="xppotion1" image="images/store/xp_potion1.png" />	
+		<item sku="xppotion2" image="images/store/xp_potion3.png" />			
+	</tab>		
+</store>

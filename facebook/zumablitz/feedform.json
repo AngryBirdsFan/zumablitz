@@ -1,0 +1,48 @@
+var feedforms = {
+    "levelup" : {
+		"title" : "Congratulations, Level {level} {levelname}! In honor of this glorious occasion, the Zuma gods are letting you share {giftamount} free {gifttype} with your friends!",
+		"name" : "I am sharing {giftamount} free Zuma Blitz {gifttype} with my friends. Click here!",
+		"desc" : "{name} earned the rank of Level {level} {levelname}, and in honor of this glorious occasion the Zuma gods have granted gifts for their friends. Click to claim your gift!"
+    },
+    "itemunlock" : {
+    	"title" : "Whoa! In celebration, the Zuma gods unlocked '{item}'. Tell your friends!", 
+    	"name"	: "{name} just unlocked the '{item}' reward!",
+    	"desc"	: "Check out all the cool level rewards you can earn in Zuma Blitz."    			
+    },
+    "highscore" : {
+        "title": "You have pleased the Zuma gods with a high score, share word of your triumph with your friends!",
+        "name" : "{name} just got a new high score this week in Zuma Blitz!",
+        "desc" : "The Zuma gods are duly impressed with {name}'s {highscore} points, and challenge all to attempt toppling {name}'s mighty score."
+    },
+    "medal" : {
+        "title" : "Victory is as sweet as tasty fruit in your mouth. Share word of your triumph with your friends!",
+        "name" : "{name} placed {place} of all their friends in Zuma Blitz this week!",
+        "desc" : "The Zuma Gods are duly impressed with {name}'s {highscore} points, and challenge all to attempt toppling them in this week's tourney!"
+    },
+    "spiritanimalrank" : {
+        "title" : "Oh, mighty frog, show off your {animal}'s promotion to {circle}!",
+        "name" : "{name}'s Spirit {animal} is now a mighty {circle} in Zuma Blitz.",
+        "desc" : "{animal}'s wisdom is but one reward for {name}'s score of {highscore}.  What Spirit Animals have you unlocked?"
+    },
+    "spiritanimallevelupforweek" : {
+        "title" : "Oh, mighty frog, let all rejoice your score and the wisdom of the {animal} {circle}!",
+        "name" : "{name}'s Spirit {animal} is a mighty {circle} in Zuma Blitz.",
+        "desc" : "{animal}'s wisdom is but one reward for {name}'s score of {highscore}.  What Spirit Animals have you unlocked?"
+    },
+    "firstspiritanimal" : {
+        "title" : "Show your friends that the Spirit of the {animal} has your back!",
+        "name" : "{name} just unlocked the Spirit of the {animal} in Zuma Blitz.",
+        "desc" : "{animal}'s wisdom is but one reward for {name}'s score of {highscore}. What Spirit Animals have you unlocked?"
+    }
+    ,"streaminvite" : {
+        "title": "Enter a personalized message to invite your friend!",
+		"name" : "{name} invited you to join their Zuma Blitz",
+		"desc" : "Come join me in the blazing-fast new game from the makers of Bejeweled Blitz. It's the hottest minute on Facebook, and winner of IGN's 'Best Facebook Game' of 2010!"
+    }
+    /*,"goldenticketbeta" : {
+        "title" : "Enter a personalized message below to tell your friend why they will love playing Zuma Blitz...",
+        "name" : "You got a Golden Ticket to the Zuma Blitz Beta! Click to use it.",
+        "desc" : "Congrats, you're one of the select people who get to play the Zuma Blitz Beta, the awesome new Facebook game from the makers of Bejeweled Blitz. Don't forget to give us your feedback!",
+        "image_url" : "facebook/zumablitz/images/feedform/goldenticket.png"
+    }*/
+};

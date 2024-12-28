@@ -1,0 +1,1923 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<zuma_blitz>  
+	<!-- ==================================================================================================================== -->	
+	<game>
+		<dialog>
+			<yes>
+				<![CDATA[<p>Yes</p>]]>
+			</yes>
+			<no>
+				<![CDATA[<p>No</p>]]>
+			</no>
+			<confirmation>
+				<![CDATA[<p>Are you sure you want<br/>to end your current game?<br/>All progress will be lost.</p>]]>
+			</confirmation>
+		</dialog>
+		<options>
+			<help>
+				<![CDATA[<p>How to Play</p>]]>
+			</help>
+			<mainmenu>
+				<![CDATA[<p>Main Menu</p>]]>
+			</mainmenu>
+			<back>
+				<![CDATA[<p>Back to Game</p>]]>
+			</back>
+			<sound>
+				<![CDATA[<p>Sound</p>]]>
+			</sound>
+			<upsell>
+				<![CDATA[<p>Try the full version</p>]]>
+			</upsell>
+		</options>
+		<play>
+			<scoring>
+			</scoring>
+		</play>
+		<game_over>
+			<labels>
+				<score>
+					<![CDATA[<p>Final Score</p>]]>
+				</score>
+				<highscore>
+					<![CDATA[<p>New High Score!</p>]]>
+				</highscore>
+				<combo>
+					<![CDATA[<p>Combo</p>]]>
+				</combo>
+				<chain>
+					<![CDATA[<p>Chain</p>]]>
+				</chain>
+				<gap>
+					<![CDATA[<p>Gap Shots</p>]]>
+				</gap>
+				<fruit>
+					<![CDATA[<p>Fruit</p>]]>
+				</fruit>
+				<time>
+					<![CDATA[<p>Extra Time</p>]]>
+				</time>
+				<multiplier>
+					<![CDATA[<p>Multiplier</p>]]>
+				</multiplier>
+				<gems>
+					<![CDATA[<p>Mojo</p>]]>
+				</gems>
+				<balls>
+					<![CDATA[<p>Balls Cleared</p>]]>
+				</balls>
+				<xp>
+					<![CDATA[<p>XP</p>]]>
+				</xp>
+				<speed>
+					<![CDATA[<p>Speed</p>]]>
+				</speed>
+				<special>
+					<![CDATA[<p>Specials</p>]]>
+				</special>
+				<share>
+					<![CDATA[<p>SHARE!</p>]]>
+				</share>
+				<more>
+					<![CDATA[<p>More!</p>]]>
+				</more>
+				<back>
+					<![CDATA[<p>Back</p>]]>
+				</back>
+				<powers>
+					<![CDATA[<p>Powers</p>]]>
+				</powers>
+			</labels>
+			<zumaguy>
+				<level1>
+					<![CDATA[<p>Well done little frog! Keep hoppin' along!</p>]]>
+				</level1>
+				<level2>
+					<![CDATA[<p>Right-click to switch your ball to the color on your back!</p>]]>
+				</level2>
+				<level3>
+					<![CDATA[<p>Rejoice, tiny tadpole. Your destiny is grand majestic!</p>]]>
+				</level3>
+				<level4>
+					<![CDATA[<p>Mighty frog plays lots to earn XP for bigger skills and Powers!</p>]]>
+				</level4>
+				<level5>
+					<![CDATA[<p>Blast Score Multiplier balls for rich points and scores.</p>]]>
+				</level5>
+				<level6>
+					<![CDATA[<p>Furious frogs explode Time Balls to add scoring seconds to game!</p>]]>
+				</level6>
+				<level7>
+					<![CDATA[<p>As your powers grow and fatten, your scores will do the same!</p>]]>
+				</level7>
+				<level8>
+					<![CDATA[<p>Frog gets big Powers in the Temple below!</p>]]>
+				</level8>
+				<level9>
+					<![CDATA[<p>Unlock new Powers by getting higher Levels!</p>]]>
+				</level9>
+				<level10>
+					<![CDATA[<p><a href="http://www.popcap.com/games/zumasrevenge?cid=fba:zb:go:zumas_revenge:v1:en" target="_blank">Time-conscious Frog! You desire more Zuma? Click to try Zuma's Revenge for free!</a></p>]]>
+				</level10>
+				<level11>
+					<![CDATA[<p>Quick shooting brings Hot Frog to unleash devastation!</p>]]>
+				</level11>
+				<level12>
+					<![CDATA[<p>Make matches without mistake to build Chain Bonus!</p>]]>
+				</level12>
+				<level13>
+					<![CDATA[<p>Shoot through gaps, frog! Smaller gaps for bigger points!</p>]]>
+				</level13>
+				<level14>
+					<![CDATA[<p>Same-color balls snap gaps shut. If they match three, that's combo!</p>]]>
+				</level14>
+				<level15>
+					<![CDATA[<p>Smash balls back to start for Curve Clear points!</p>]]>
+				</level15>
+				<level16>
+					<![CDATA[<p>Each fruit scores more than the one before!</p>]]>
+				</level16>
+				<level17>
+					<![CDATA[<p>Hit Treasure Chests like Fruit for points and spin!</p>]]>
+				</level17>
+				<level18>
+					<![CDATA[<p>Every smashed ball earns Mojo! Mojo is power!</p>]]>
+				</level18>
+				<level19>
+					<![CDATA[<p>Use Idols to buy Mojo or unlock Powers!</p>]]>
+				</level19>
+				<level20>
+					<![CDATA[<p><a href="http://www.popcap.com/games/zumasrevenge?cid=fba:zb:go:zumas_revenge:v2:en" target="_blank">Zuma Blitz, while mighty, is not all. Click to try other Zuma games for free!</a></p>]]>
+				</level20>
+				<level21>
+					<![CDATA[<p>Crush your friends to earn medals! Ha!</p>]]>
+				</level21>
+				<level22>
+					<![CDATA[<p>Click leaderboard for juicy tidbits about friends' scores!</p>]]>
+				</level22>
+				<level23>
+					<![CDATA[<p>Different Powers are not the same! Try new ones and see!</p>]]>
+				</level23>
+				<level24>
+					<![CDATA[<p>Speed Bonus begins to build after fast matches!</p>]]>
+				</level24>
+				<level25>
+					<![CDATA[<p>Match fast to summon Hot Frog to blast three fireballs!</p>]]>
+				</level25>
+				<level26>
+					<![CDATA[<p>Chain bonus starts small but gets bigger with each good match!</p>]]>
+				</level26>
+				<level27>
+					<![CDATA[<p>Gap shots are good for points and make awesome sounds!</p>]]>
+				</level27>
+				<level28>
+					<![CDATA[<p>Frog, set up combos of same-color balls for major scoring!</p>]]>
+				</level28>
+				<level29>
+					<![CDATA[<p>Ha! Lots of Curve Clear bonuses make huge points bigger!</p>]]>
+				</level29>
+				<level30>
+					<![CDATA[<p><a href="http://www.popcap.com/games/zumasrevenge?cid=fba:zb:go:zumas_revenge:v3:en" target="_blank">Ha! Zuma's Revenge has other game modes to play. Click to try for free now!</a></p>]]>
+				</level30>
+				<level31>
+					<![CDATA[<p>Earn Mojo by playing, or buy lots from the Store!</p>]]>
+				</level31>
+				<level32>
+					<![CDATA[<p>Fruit shots are hard but so tasty and full of points!</p>]]>
+				</level32>
+				<level33>
+					<![CDATA[<p>Look! The Store is open for buying things of use!</p>]]>
+				</level33>
+				<level34>
+					<![CDATA[<p>Get bigger scores than your friends, then taunt them!</p>]]>
+				</level34>
+				<level35>
+					<![CDATA[<p>Match through gaps for many points!</p>]]>
+				</level35>
+				<level36>
+					<![CDATA[<p>Same-color balls snap gaps shut. If they match three, that's combo!</p>]]>
+				</level36>
+				<level37>
+					<![CDATA[<p>Kill curve completely for large Curve Clear bonus!</p>]]>
+				</level37>
+				<level38>
+					<![CDATA[<p>Yum! Fruit gets more points each time you pick it!</p>]]>
+				</level38>
+				<level39>
+					<![CDATA[<p>Get Mojo and other stuff from Treasure Chest spins!</p>]]>
+				</level39>
+				<level40>
+					<![CDATA[<p><a href="http://www.popcap.com/games/zumasrevenge?cid=fba:zb:go:zumas_revenge:v4:en" target="_blank">Yearn to play Zuma in hi-def and full screen? Click to try Zuma's Revenge for free!</a></p>]]>
+				</level40>
+				<level41>
+					<![CDATA[<p>Buy Idols from the store to get Idols for things!</p>]]>
+				</level41>
+				<level42>
+					<![CDATA[<p>Check the Store for useful items, Frog!</p>]]>
+				</level42>
+				<level43>
+					<![CDATA[<p>Keep playing to beat your friends and earn weekly medals!</p>]]>
+				</level43>
+				<level44>
+					<![CDATA[<p>Ho ho! The leaderboard has lots of info about scores!</p>]]>
+				</level44>
+				<level45>
+					<![CDATA[<p>Smash balls back to start for Curve Clear points!</p>]]>
+				</level45>
+				<level46>
+					<![CDATA[<p>Frog, set up combos of same-color balls for major scoring!</p>]]>
+				</level46>
+				<level47>
+					<![CDATA[<p>Fruit shots are hard but so tasty and full of points!</p>]]>
+				</level47>
+				<level48>
+					<![CDATA[<p>Earn Mojo by playing, or buy lots from the Store!</p>]]>
+				</level48>
+				<level49>
+					<![CDATA[<p>Gap shots are good for points and make awesome sounds!</p>]]>
+				</level49>
+				<level50>
+					<![CDATA[<p>Click leaderboard for juicy tidbits about friends' scores!</p>]]>
+				</level50>
+				
+				<level51>
+					<![CDATA[<p>Match fast to summon Hot Frog to blast three fireballs!</p>]]>
+				</level51>
+				<level52>
+					<![CDATA[<p>Chain Bonus starts small but gets bigger with each good match!</p>]]>
+				</level52>
+				<level53>
+					<![CDATA[<p>Gap shots are good for points and make awesome sounds!</p>]]>
+				</level53>
+				<level54>
+					<![CDATA[<p>Frog, set up combos of same-color balls for major scoring!</p>]]>
+				</level54>
+				<level55>
+					<![CDATA[<p>Ha! Lots of Curve Clear bonuses make huge points bigger!</p>]]>
+				</level55>
+				<level56>
+					<![CDATA[<p>Treasure Chests spin to win after your game, Frog!</p>]]>
+				</level56>
+				<level57>
+					<![CDATA[<p>Earn Mojo by playing, or buy lots from the Store!</p>]]>
+				</level57>
+				<level58>
+					<![CDATA[<p>Get Idols by leveling up or from Treasure Chests!</p>]]>
+				</level58>
+				<level59>
+					<![CDATA[<p>Look! The Store is open for buying things of use!</p>]]>
+				</level59>
+				<level60>
+					<![CDATA[<p>Get bigger scores than your friends, then taunt them!</p>]]>
+				</level60>
+				<level61>
+					<![CDATA[<p>Match through gaps for many points!</p>]]>
+				</level61>
+				<level62>
+					<![CDATA[<p>Same-color balls snap gaps shut. If they match three, that's combo!</p>]]>
+				</level62>
+				<level63>
+					<![CDATA[<p>Kill curve completely for large Curve Clear bonus!</p>]]>
+				</level63>
+				<level64>
+					<![CDATA[<p>Yum! Fruit gets more yummy each time you pick it!</p>]]>
+				</level64>
+				<level65>
+					<![CDATA[<p>Get Mojo and other stuff from Treasure Chest spins!</p>]]>
+				</level65>
+				<level66>
+					<![CDATA[<p>Every smashed ball earns Mojo! Mojo is power!</p>]]>
+				</level66>
+				<level67>
+					<![CDATA[<p>Buy Idols from the store to get Idols for things!</p>]]>
+				</level67>
+				<level68>
+					<![CDATA[<p>Check the Store for useful items, Frog!</p>]]>
+				</level68>
+				<level69>
+					<![CDATA[<p>Keep playing to beat your friends and earn weekly medals!</p>]]>
+				</level69>
+				<level70>
+					<![CDATA[<p>Ho ho! The leaderboard has lots of info about scores!</p>]]>
+				</level70>
+				<level71>
+					<![CDATA[<p>Smash balls back to start for Curve Clear points!</p>]]>
+				</level71>
+				<level72>
+					<![CDATA[<p>Frog, set up combos of same-color balls for major scoring!</p>]]>
+				</level72>
+				<level73>
+					<![CDATA[<p>Fruit shots are hard but so tasty and full of points!</p>]]>
+				</level73>
+				<level74>
+					<![CDATA[<p>Earn Mojo by playing, or buy lots from the Store!</p>]]>
+				</level74>
+				<level75>
+					<![CDATA[<p>Gap shots are good for points and make awesome sounds!</p>]]>
+				</level75>
+				
+				<level76>
+					<![CDATA[<p>Click leaderboard for juicy tidbits about friends' scores!</p>]]>
+				</level76>
+				<level77>
+					<![CDATA[<p>Match fast to summon Hot Frog to blast three fireballs!</p>]]>
+				</level77>
+				<level78>
+					<![CDATA[<p>Chain Bonus starts small but gets bigger with each good match!</p>]]>
+				</level78>
+				<level79>
+					<![CDATA[<p>Gap shots are good for points and make awesome sounds!</p>]]>
+				</level79>
+				<level80>
+					<![CDATA[<p>Frog, set up combos of same-color balls for major scoring!</p>]]>
+				</level80>
+				<level81>
+					<![CDATA[<p>Ha! Lots of Curve Clear bonuses make huge points bigger!</p>]]>
+				</level81>
+				<level82>
+					<![CDATA[<p>Treasure Chests spin to win after your game, Frog!</p>]]>
+				</level82>
+				<level83>
+					<![CDATA[<p>Earn Mojo by playing, or buy lots from the Store!</p>]]>
+				</level83>
+				<level84>
+					<![CDATA[<p>Get Idols by leveling up or from Treasure Chests!</p>]]>
+				</level84>
+				<level85>
+					<![CDATA[<p>Look! The Store is open for buying things of use!</p>]]>
+				</level85>
+				<level86>
+					<![CDATA[<p>Get bigger scores than your friends, then taunt them!</p>]]>
+				</level86>
+				<level87>
+					<![CDATA[<p>Match through gaps for many points!</p>]]>
+				</level87>
+				<level88>
+					<![CDATA[<p>Same-color balls snap gaps shut. If they match three, that's combo!</p>]]>
+				</level88>
+				<level89>
+					<![CDATA[<p>Kill curve completely for large Curve Clear bonus!</p>]]>
+				</level89>
+				<level90>
+					<![CDATA[<p>Yum! Fruit gets yummier each time you pick it!</p>]]>
+				</level90>
+				<level91>
+					<![CDATA[<p>Get Mojo and other stuff from Treasure Chest spins!</p>]]>
+				</level91>				
+				<level92>
+					<![CDATA[<p>Every smashed ball earns Mojo! Mojo is power!</p>]]>
+				</level92>
+				<level93>
+					<![CDATA[<p>Buy Idols from the store to get Idols for things!</p>]]>
+				</level93>
+				<level94>
+					<![CDATA[<p>Check the Store for useful items, Frog!</p>]]>
+				</level94>
+				<level95>
+					<![CDATA[<p>Keep playing to beat your friends and earn weekly medals!</p>]]>
+				</level95>
+				<level96>
+					<![CDATA[<p>Ho ho! The leaderboard has lots of info about scores!</p>]]>
+				</level96>
+				<level97>
+					<![CDATA[<p>Smash balls back to start for Curve Clear points!</p>]]>
+				</level97>
+				<level98>
+					<![CDATA[<p>Frog, set up combos of same-color balls for major scoring!</p>]]>
+				</level98>
+				<level99>
+					<![CDATA[<p>Fruit shots are hard but so tasty and full of points!</p>]]>
+				</level99>
+				<level100>
+					<![CDATA[<p>Earn Mojo by playing, or buy lots from the Store!</p>]]>
+				</level100>
+				
+			</zumaguy>
+			<tooltips>
+				<multiplier x="275" y="255">
+					<![CDATA[<p>Each Multiplier Ball collected increases your total score multiplier</p>]]>
+				</multiplier>
+				<time_extension x="275" y="285">
+					<![CDATA[<p>Number of Time Balls collected: [TIMEBALLS]</p>]]>	
+				</time_extension>
+				<gems20>
+					<![CDATA[<p>You earned [GEMS]<br/>20% bonus for being Level [LEVEL]</p>]]>	
+				</gems20>
+				<gems10>
+					<![CDATA[<p>You earned [GEMS]<br/>10% bonus for being Level [LEVEL]</p>]]>	
+				</gems10>
+				<gems_none>
+					<![CDATA[<p>You need to reach Level [LEVEL] to earn Mojo</p>]]>	
+				</gems_none>
+				<gems_regular>
+					<![CDATA[<p>You earned [GEMS] Mojo</p>]]>	
+				</gems_regular>
+				<xp>
+					<![CDATA[<p>You earned [XP] XP<br/>[NEXTXP] more for your next Level</p>]]>	
+				</xp>
+				<gap x="350" y="265">
+					<![CDATA[<p>Earn bonus points for shooting through holes in the line</p>]]>	
+				</gap>
+				<combo x="350" y="220">
+					<![CDATA[<p>Earn bonus points by making multiple matches with one shot</p>]]>	
+				</combo>
+				<chain x ="230" y="230">
+					<![CDATA[<p>Earn bonus points by making 6 or more consecutive matches</p>]]>	
+				</chain>
+				<fruit x="230" y="275">
+					<![CDATA[<p>Each Fruit earned is worth more points</p>]]>	
+				</fruit>
+				<speed x="230" y="180">
+					<![CDATA[<p>Earn bonus points by making matches quickly</p>]]>	
+				</speed>
+				<special x="350" y="160">
+					<![CDATA[<p>Hot Frog - [HOTFROG]<br/>Curve Clear - [CLEARCURVE]<br/>Critical Hits - [CRITICAL] </p>]]>
+				</special>
+				<hotfrog x="350" y="160">
+					<![CDATA[<p>Hot Frog - [HOTFROG]</p>]]>
+				</hotfrog>
+				<clearcurve x="350" y="160">
+					<![CDATA[<p>Curve Clear - [CLEARCURVE]</p>]]>
+				</clearcurve>
+				<criticalhits x="350" y="160">
+					<![CDATA[<p>Critical Hits - [CRITICAL]</p>]]>
+				</criticalhits>
+				<nospecial x="350" y="160">
+					<![CDATA[<p>No Specials</p>]]>
+				</nospecial>
+				<powers x="280" y="80">
+					<![CDATA[<p>Last Hurrah - [LASTHURRAH]<br/>[BOMBS] from Bombs <br/>Cannon - [CANNON]<br/>Chain Blasts - [CHAINBLAST]</p>]]>
+				</powers>
+				<lasthurrah x="280" y="0">
+					<![CDATA[<p>[LASTHURRAH] - Last Hurrah</p>]]>
+				</lasthurrah>
+				<bombs x="280" y="80">
+					<![CDATA[<p>[BOMBS] - Bombs</p>]]>
+				</bombs>
+				<cannon x="280" y="80">
+					<![CDATA[<p>[CANNON] - Cannon shots</p>]]>
+				</cannon>
+				<chainblast x="280" y="80">
+					<![CDATA[<p>[CHAINBLAST] - Chain Blasts</p>]]>
+				</chainblast>
+				<speedball x="280" y="80">
+					<![CDATA[<p>Adds to <font color="#ccffff">Speed</font></p>]]>
+				</speedball>
+				<timeball x="280" y="80">
+					<![CDATA[<p>Increases time</p>]]>
+				</timeball>
+				<multiplierpowerup x="280" y="80">
+					<![CDATA[<p>Increases starting multiplier</p>]]>
+				</multiplierpowerup>
+				<fruitpowerup x="280" y="80">
+					<![CDATA[<p>Adds to <font color="#ccffff">Fruit</font> </p>]]>
+				</fruitpowerup>
+				<hotfrogpowerup x="280" y="80">
+					<![CDATA[<p>Adds to <font color="#ccffff">Specials</font> </p>]]>
+				</hotfrogpowerup>
+				<nopowers x="280" y="80">
+					<![CDATA[<p>No Powers</p>]]>
+				</nopowers>
+			</tooltips>
+		</game_over>
+
+	</game>
+	<!-- ==================================================================================================================== -->
+	<preloader>
+		<loading><![CDATA[<p>Loading Zuma Blitz...</p>]]></loading>
+		<message><![CDATA[<p>Loading balls...</p>]]></message>
+		<message><![CDATA[<p>Hoarding idols...</p>]]></message>
+		<message><![CDATA[<p>Spitting orbs...</p>]]></message>
+		<message><![CDATA[<p>Summoning spirit animals...</p>]]></message>
+		<message><![CDATA[<p>Hungering for tasty flies...</p>]]></message>
+		<message><![CDATA[<p>Twitching clicky fingers...</p>]]></message>
+		<message><![CDATA[<p>Computing zeroes and logics...</p>]]></message>
+		<message><![CDATA[<p>Extracting images of pineapples...</p>]]></message>
+		<message><![CDATA[<p>One hot Blitz game, coming up!</p>]]></message>
+		<message><![CDATA[<p>I'm not going to lie;<br/>I totally love this game.</p>]]></message>
+		<message><![CDATA[<p>Shoot balls!<br/>Make matches!<br/>Brag to many friends!</p>]]></message>
+		<message><![CDATA[<p>You may not like flies, but trust me, they're good!</p>]]></message>
+		<message><![CDATA[<p>Oooga, but maybe perhaps, booga.</p>]]></message>
+		<message><![CDATA[<p>Mmmmm! Can't wait to play Zuma!</p>]]></message>
+	</preloader>
+	<!-- ==================================================================================================================== -->
+	<spinner>
+		<lock_popup>
+			<header><![CDATA[<p>Extra Slot</p>]]></header>
+			<level><![CDATA[<p>Unlocks at Level [LEVEL]</p>]]></level>
+			<center_circle><![CDATA[<p>OR</p>]]></center_circle>
+			<idols><![CDATA[<p>Pay [IDOLS]</p>]]></idols>
+			<tag><![CDATA[<p>to unlock instantly</p>]]></tag>
+		</lock_popup>
+	</spinner>
+	<!-- ==================================================================================================================== -->
+	<tourneypotionbar>
+		<potions>
+			<button><![CDATA[<p>Double XP and Triple Mojo</p>]]></button>
+			<mouseoverblank x="550" y="390"><![CDATA[<p>Buy potions to earn triple Mojo and double XP - that means more Powers and Levels faster!</p>]]></mouseoverblank>
+			<mouseoverxp x="550" y="390"><![CDATA[<p>DOUBLES the amount of XP you earn for the next 24 hours</p>]]></mouseoverxp>
+			<mouseoverxpgames x="550" y="390"><![CDATA[<p>DOUBLES the amount of XP you earn for the next [GAMES] games</p>]]></mouseoverxpgames>
+			<mouseovermojo x="550" y="390"><![CDATA[<p>TRIPLES the amount of Mojo you earn for the next 24 hours</p>]]></mouseovermojo>
+			<mouseovermojogames x="550" y="390"><![CDATA[<p>TRIPLES the amount of Mojo you earn for the next [GAMES] games</p>]]></mouseovermojogames>
+		</potions>
+		<tourney>
+			<weekly><![CDATA[<p>Weekly Tournament Ends In:</p>]]></weekly>
+			<days><![CDATA[<p>Days</p>]]></days>
+			<hours><![CDATA[<p>Hours</p>]]></hours>
+			<minutes><![CDATA[<p>Minutes</p>]]></minutes>
+		</tourney>
+	</tourneypotionbar>
+	<!-- ==================================================================================================================== -->
+	<out_of_sync>
+		<session_mismatch><![CDATA[<p>There's a newer game open elsewhere. Click OK to refresh <br/>and get your latest game data.</p>]]></session_mismatch>
+		<tournament_mismatch><![CDATA[<p>A new tournament has started.<br/>Click OK to refresh and <br/>play the new board.</p>]]></tournament_mismatch>
+	</out_of_sync>
+	<!-- ==================================================================================================================== -->
+	<dialogs>
+		<purchase_item>
+			<insufficient_funds>				
+				<body><![CDATA[<p>You do not have enough Idols to make this purchase.</p>]]></body>	
+			</insufficient_funds>
+			<confirmation>
+				<body><![CDATA[<p>You are about to purchase<br/>[ITEM]<br/>[IDOLS] Idols will be deducted from your balance.<br/>Do you wish to continue?</p>]]></body>
+			</confirmation>
+		</purchase_item>
+		<armpowerups_insufficientfunds><![CDATA[<p>You do not have enough Mojo left to arm your Powers.<br/>Would you like to BUY more Mojo or PLAY without Powers?</p>]]></armpowerups_insufficientfunds>
+		<no_lives_left><![CDATA[<p>You have no lives left!<br/>Do you want to buy more lives or wait it out?</p>]]></no_lives_left>
+		<grant_life_regen><![CDATA[<p>You have no lives left!<br/>But we like you, so here's a refill!</p>]]></grant_life_regen>
+		<temple_unlock><![CDATA[<p>Temple Reached, you have gained access to the Temple and its Powers.<br/>Your first Power is ready.<br/>Select the Bomb to experience its blast.</p>]]></temple_unlock>
+		<equip_bomb><![CDATA[<p>Your new Bomb Power will use [COST] Mojo each game it is active.<br/>You can unselect a Power by clicking on it in the Temple.</p>]]></equip_bomb>
+	</dialogs>	
+	<!-- ==================================================================================================================== -->
+	<tooltips>
+		<temple x="164" y="392"><![CDATA[<p>Click here to open the Temple, where you can swap out your Powers or buy new ones!</p>]]></temple>
+		<mojo x="12" y="52"><![CDATA[<p>This is Mojo. It fuels your Powers. Play to earn Mojo or buy it in the Store.</p>]]></mojo>
+		<idols x="168" y="52"><![CDATA[<p>These are Idols. Spend Idols on Mojo, Life, Potion or unlocking new Powers!</p>]]></idols>
+		<addidols x="280" y="52"><![CDATA[<p>Purchase Idols with Facebook Credits.</p>]]></addidols>
+		<store x="395" y="52"><![CDATA[<p>The Store is where you can buy Mojo, Life or Potions.</p>]]></store>
+		<menu x="400" y="52"><![CDATA[<p>Change your game options such as sound and mode.</p>]]></menu>
+		<xp x="555" y="52"><![CDATA[<p>[XP] XP to get to Level [NEXTLEVEL].</p>]]></xp>
+		<xp_max x="555" y="52"><![CDATA[<p>You are now Golden Frog! It's time to dominate your leaderboard with this fully armed battle frog!</p>]]></xp_max>
+		<invite x="555" y="454"><![CDATA[<p>Invite your friends to join your Zuma Blitz tribe!</p>]]></invite>
+	</tooltips>
+	<!-- ==================================================================================================================== -->
+	<tournament_wrapup>
+		<okaybutton><![CDATA[OK]]></okaybutton>
+		<gloatbutton><![CDATA[GLOAT!]]></gloatbutton>
+		<headline><![CDATA[Last Week's Results]]></headline>
+		<your_score><![CDATA[Your score]]></your_score>
+		<top_three><![CDATA[Last week's top 3]]></top_three>
+		<gloat_gold><![CDATA[You came in 1st and won a Gold Medal!]]></gloat_gold>
+		<gloat_silver><![CDATA[You came in 2nd and won a Silver Medal!]]></gloat_silver>
+		<gloat_bronze><![CDATA[You came in 3rd and won a Bronze Medal!]]></gloat_bronze>
+		<gloat_no_medal><![CDATA[Place in the top 3 to win a medal!]]></gloat_no_medal>
+	</tournament_wrapup>
+	<!-- ==================================================================================================================== -->
+	<temple>
+		<mojoCost><![CDATA[<p>Cost: $num Mojo/game</p>]]></mojoCost>
+		<open><![CDATA[<p>Powers</p>]]></open>
+		<close><![CDATA[<p>Close</p>]]></close>
+		<locked><![CDATA[<p>LOCKED</p>]]></locked>
+		<new_powerup><![CDATA[<p>NEW!</p>]]></new_powerup>
+		<addPowerup><![CDATA[<p>Add<br/>Power</p>]]></addPowerup>
+		<locked_mouth>
+			<left><![CDATA[<p>Temple of Power</p>]]></left>
+			<right><![CDATA[<p>Unlocks at Level 5</p>]]></right>
+		</locked_mouth>
+		<powerupslot>
+			<unlockprice><![CDATA[<p>Unlock:  [PRICE]</p>]]></unlockprice>
+			<unlocklevel><![CDATA[<p>or level [LEVEL]</p>]]></unlocklevel>
+		</powerupslot>
+		<powerupitem>
+			<unlockprice><![CDATA[<p>Unlock:  [PRICE]</p>]]></unlockprice>
+			<unlocklevel><![CDATA[<p>or level [LEVEL]</p>]]></unlocklevel>
+			<unlocklevelonly><![CDATA[<p>Unlock: level [LEVEL]</p>]]></unlocklevelonly>
+		</powerupitem>		
+	</temple>
+	<!-- ==================================================================================================================== -->
+	<coin_flip_dialog>
+		<grant_flip>
+			<header><![CDATA[OUT OF LIFE!]]></header>
+			<body><![CDATA[<p>It appears as if you have run out of hearts. Perhaps I can help?<br/>Flip the coin for a chance at free life.</p>]]></body>
+			<action_button><![CDATA[Flip the coin!]]></action_button>
+		</grant_flip>
+		<deny_flip>
+			<header><![CDATA[OUT OF LIFE!]]></header>
+			<body><![CDATA[<p>You have no Hearts left. They'll come back soon enough, but that's not soon enough!</p>]]></body>
+			<deals>
+				<deal type="store">
+					<info><![CDATA[<p>Visit the Store to get more Hearts.</p>]]></info>
+					<btn_label><![CDATA[<p>Go!</p>]]></btn_label>
+				</deal>
+			</deals>
+			<action_button><![CDATA[No thanks, I'll wait]]></action_button>
+		</deny_flip>		
+		<win_flip>
+			<header><![CDATA[YOU WIN!]]></header>
+			<body><![CDATA[<p>A Full Life Refill has been granted.<br/>Continue on your way, wise frog.<br/>I am sure our paths will cross again in the future.</p>]]></body>
+			<action_button><![CDATA[<p>Continue</p>]]></action_button>
+		</win_flip>	
+		<lose_flip>
+			<header><![CDATA[THE COIN HAS SPOKEN!]]></header>
+			<body><![CDATA[<p>You have no Hearts left. You'll get another one if you can wait out the clock.</p>]]></body>
+			<deals>
+				<deal type="liferefill" sku="lifeonce_discount1">
+					<info><![CDATA[<p>Buy a Life Refill for [PRICE] Idols (40% off!).</p>]]></info>
+					<btn_label><![CDATA[<p>Gimme!</p>]]></btn_label>
+				</deal>
+			</deals>
+			<action_button><![CDATA[No thanks, I'll wait]]></action_button>
+		</lose_flip>		
+	</coin_flip_dialog>
+	<!-- ==================================================================================================================== -->
+	<levelup_dialog>		
+		<header>
+			<title><![CDATA[LEVEL UP]]></title>
+			<desc><![CDATA[You are now Level [LEVEL]!]]></desc>
+		</header>
+		<gifts>
+			<!-- <nogift><![CDATA[Click Share to let all your friends know just how cool you are!]]></nogift> -->
+			<nogift><![CDATA[Well done little frog! Keep hoppin' along!]]></nogift>
+			<mojo><![CDATA[Share [AMOUNT] Mojo with your friends!]]></mojo>
+			<idols><![CDATA[Share [AMOUNT] Idols with your friends!]]></idols>
+			<life><![CDATA[Share a Full Life Refill with your friends!]]></life>
+		</gifts>
+		<rewards>
+			<header><![CDATA[Your rewards:]]></header>
+			<liferefill><![CDATA[Refilled!]]></liferefill>
+		</rewards>
+		<buttons>
+			<left><![CDATA[Skip]]></left>
+			<right><![CDATA[Share]]></right>
+		</buttons>
+		<level_desc>
+			<level id="2"><![CDATA[Is true, you still just a Whelp. No get all sad tho!  Soon get bigger. Then laugh at others.]]></level>
+			<level id="3"><![CDATA[No take long at all, hey? New Tribeling gets new stuff for more ball-bashing! Soon get even more!]]></level>
+			<level id="4"><![CDATA[Carving kudos is fun, yes? Maybe not. No worry, you moving up, and maybe get kudos yourself!]]></level>
+			<level id="5"><![CDATA[What's this about Temples? Tribe has one and it needs sweeping! Get Temple good and ready!]]></level>
+			<level id="6"><![CDATA[Hah! Fruit is great! Go look for Fruit! Tribe is always wanting Fruit!]]></level>
+			<level id="7"><![CDATA[Somebody gotta watch big tribe sundial for lunchtime. You do it now! Blast balls for better job soon!]]></level>
+			<level id="8"><![CDATA[Tribe need somebody to keep track of tribe treasures! Put them in chests so monkeys can't steal 'em!]]></level>
+			<level id="9"><![CDATA[Strong tribe always need capable spear sharpener. Pointy sticks keep angry animals away!]]></level>
+			<level id="10"><![CDATA[Huts are good for rains, keep tribe dry! Build huts for now, but soon you move on!]]></level>
+			<level id="11"><![CDATA[Got special job now, heal hearts for weary tribelings! Sound hard? Blast balls to move up!]]></level>
+			<level id="12"><![CDATA[Monkeys and lemurs try to take treasures! Don't let them! Tribe needs treasures for big reasons!]]></level>
+			<level id="13"><![CDATA[Sometime tribe's hearts get run down. Fix them with love and attention! Then blast balls!]]></level>
+			<level id="14"><![CDATA[Oof! Great job to do, smack orbs all day! Teach those orbs lessons, then eat fruit to relax!]]></level>
+			<level id="15"><![CDATA[Who likes dirty Temple? Nobody! Big honor to scrub Temple night and noon!]]></level>
+			<level id="16"><![CDATA[Bamboo grows big, tribe needs tireless hacker to chop paths! Find good ones and blast balls!]]></level>
+			<level id="17"><![CDATA[Ah! Tribe just got Slice-o-mat 5000! Use it to dice Fruit into attractive and tasty deli plates!]]></level>
+			<level id="18"><![CDATA[Hey! More hearts are good for whole tribe! Find lots and keep some for yourself!]]></level>
+			<level id="19"><![CDATA[Boom! Tribe discover gunpowder! Makes huge bang and scares monkeys. Pack it tight and good!]]></level>
+			<level id="20"><![CDATA[Tribe is full of Mojo. Someone must mong it! Mong the Mojo to customers for better Mojo all round!]]></level>
+			<level id="21"><![CDATA[So many Kudos! Tribe needs place to display 'em all. Maybe a nice cabinet?]]></level>
+			<level id="22"><![CDATA[Sometimes hearts get dirty. Wipe them clean for tribe and earn much praise!]]></level>
+			<level id="23"><![CDATA[Ha ha ha! You getting really good now! Smash spheres like crazy with all your powers! ]]></level>
+			<level id="24"><![CDATA[You find lots of hearts, good for you! Make big collection and show off to friends!]]></level>
+			<level id="25"><![CDATA[Nobody can take kudos away , but we like you. Make you Kudo Guard out of respect!]]></level>
+			<level id="26"><![CDATA[You Heart Doctor now! Like witch doctor, but without crazy shrinking heads!]]></level>
+			<level id="27"><![CDATA[Whomp! You bash spheres all day and late into the night! How you so good already?]]></level>
+			<level id="28"><![CDATA[Tribe enjoys kudos and wants to keep them defended. Great new job, slight pay raise!]]></level>
+			<level id="29"><![CDATA[We all like Mojo but tribe recognizes you like it really lots! Get new title to show approval!]]></level>
+			<level id="30"><![CDATA[Kablam! Evil spheres kept in check by righteous action! Such amazing power on you!]]></level>
+			<level id="31"><![CDATA[Hearts are under attack! Sadness and monkeys lambaste the hearts! Protect them quick!]]></level>
+			<level id="32"><![CDATA[Your knowledge of treasure in many forms amazes tribe! They give you new rank and a coconut too!]]></level>
+			<level id="33"><![CDATA[Not many folks in tribe got heart like you. That's why you're Heart Champion now!]]></level>
+			<level id="34"><![CDATA[It takes brave hero to smush so many spheres! Maybe a new Power could help too!]]></level>
+			<level id="35"><![CDATA[Hooray! You save many hearts, tribe make statue of you and take Monday off in your honor!]]></level>
+			<level id="36"><![CDATA[Smacking orbs not enough! Must be eliminated complete! You best for job, so do it!]]></level>
+			<level id="37"><![CDATA[So many Fruit flavors! Can you combine them for tasty juices and salads? Try! Your job now!]]></level>
+			<level id="38"><![CDATA[Too many spheres! Need big Sphere Blaster to remove them. Lucky we have you!]]></level>
+			<level id="39"><![CDATA[Tribe got lots of legends. Now we got one more. It's you! Surprise! No? Who told?]]></level>
+			<level id="40"><![CDATA[You got lots of Mojo expertise, so Mojo Maven is appropriate rank now! More Mojo!]]></level>
+			<level id="41"><![CDATA[Big balls not so tough! When Ball Cracker is on the job, balls get cracked right!]]></level>
+			<level id="42"><![CDATA[Yikes! Hailstorm threatens our kudos! Need strong courageous hero to protect. Know just who!]]></level>
+			<level id="43"><![CDATA[Your heart so strong and pure, we make up whole new rank to describe you!]]></level>
+			<level id="44"><![CDATA[Teach balls a lesson with good smacking! Maybe balls think twice before causing trouble!]]></level>
+			<level id="45"><![CDATA[Defend the Fruit! Hungry animals want it! Tribe must fight fiercely! Poke with sharpened spear!]]></level>
+			<level id="46"><![CDATA[Zap! Change things up a bit, zap balls now instead of smack them! Fun to try new things!]]></level>
+			<level id="47"><![CDATA[Big promotion to Heart Chief! We give you few moments to reflect on accomplishments.]]></level>
+			<level id="48"><![CDATA[You decimate orbs, reduce number by one tenth! Or hey, even more if you want!]]></level>
+			<level id="49"><![CDATA[Mojo is tricky stuff. Mojo Master is huge achievement! Put on party and wear Mojo hat!]]></level>
+			<level id="50"><![CDATA[WABOOM! Yow! Big explosion clears out balls and leaves everybody with ears ringing!]]></level>
+			<level id="51"><![CDATA[Kudos have many spooky magic thingies! Smart Kudo Shaman controls kudo energy right now!]]></level>
+			<level id="52"><![CDATA[Lemurs tried to steal treasure last night. Tribe needs guard! Beat lemurs with a stick!]]></level>
+			<level id="53"><![CDATA[Pop! Balls burst like big balloons when you're around! Burst more with great powers!]]></level>
+			<level id="54"><![CDATA[Nobody does Fruit like you! You big Fruit Champion, fruit come from miles around to say "LOVE YOU!"]]></level>
+			<level id="55"><![CDATA[We hate orbs and balls so much! We name you Orb Annihilator. Job comes with fancy office!]]></level>
+			<level id="56"><![CDATA[Crash! That's the sound of balls being crashed by YOU! Great new job! Crash more balls!]]></level>
+			<level id="57"><![CDATA[Expunge all the orbs! Scrub mentions from magazine articles. Whatever it takes!]]></level>
+			<level id="58"><![CDATA[Tribe got together. We make you Kudo Master! Last Kudo Master quit, so job all yours now.]]></level>
+			<level id="59"><![CDATA[You already crash balls, why not smash them too! Better rank with more privileges!]]></level>
+			<level id="60"><![CDATA[Mmmmm! Fruit Smoothie so filling and delicious. Healthy too! Why you so great tasty, huh?]]></level>
+			<level id="61"><![CDATA[Oooooh! Orbs make tribe so mad! Use special powers and good humor to eradicate!]]></level>
+			<level id="62"><![CDATA[Diligent Frog! Balls get so bashed by you! Bash more balls and fruit too!]]></level>
+			<level id="63"><![CDATA[Hey! Demolish orbs, make way for new orbs! Never-ending cycle goes on and on!]]></level>
+			<level id="64"><![CDATA[Sacred smoke! You're so good with kudos we just have to call you "Kudo Champion" now!]]></level>
+			<level id="65"><![CDATA[Whole tribe goes quiet when you talk fruit. Many fruit mysteries, all known by you!]]></level>
+			<level id="66"><![CDATA[No balls can escape! Protect tribe by hunting balls, destroy them by matching! You know!]]></level>
+			<level id="67"><![CDATA[Whoa! Eat orbs? This is strange new approach. But hey, whatever works!]]></level>
+			<level id="68"><![CDATA[Lifting gold all day makes you strong! Strong enough to be great Treasure Champion!]]></level>
+			<level id="69"><![CDATA[Tribe hereby decree NO MORE BALLS. Up to you to carry out mission. Good luck!]]></level>
+			<level id="70"><![CDATA[It's time to clobber! Clobber what you know best: BALLS! Leave none unclobbered!]]></level>
+			<level id="71"><![CDATA[Remember when you were Kudo Champion? Now you're Kudo Legend. Things change quick!]]></level>
+			<level id="72"><![CDATA[You are Fruit Veteran. Easy to get blase and feel like you've seen all fruit. But always new ones!]]></level>
+			<level id="73"><![CDATA[When balls break, points spill out all over! Not good for balls but you get tasty points!]]></level>
+			<level id="74"><![CDATA[All these rotten orbs! Slam them into dust and do orb-slamming dance for tribe!]]></level>
+			<level id="75"><![CDATA[So many verbs to destroy balls! Many of them rhyme, too. What rhymes with "Blaster"?]]></level>
+			<level id="76"><![CDATA[Kudo Chief gets to boss around all the Kudo Champions. Glad that's you now, huh?]]></level>
+			<level id="77"><![CDATA[Hah! You are Master of Balls. Tribe knew it! You deserve best rank ever!]]></level>
+			<level id="78"><![CDATA[You big on kudos since the beginning. Only natural to call you Kudo Veteran now!]]></level>
+			<level id="79"><![CDATA[Zow-wow! Tribe almost have to invent new words to capture your awesome! Bravo you!]]></level>
+			<level id="80"><![CDATA[Almost impossible to get to this rank! Only best or most amazing people ever do!]]></level>
+		</level_desc>
+
+	</levelup_dialog>
+	<!-- ==================================================================================================================== -->
+	<unlocks_dialog>		
+		<image_text><![CDATA[Unlocked!]]></image_text>
+		<next_header><![CDATA[Next Up:]]></next_header>
+		<next_item><![CDATA[[POWER]]]></next_item>
+		<max_next><![CDATA[Golden Frog grants a 10% increase in shot speed!]]></max_next>
+		<share_button><![CDATA[Share]]></share_button>
+		<skip_button><![CDATA[Skip]]></skip_button>
+		<potion_giveaway>
+			<header><![CDATA[BONUS ITEM!]]></header>
+			<item><![CDATA[Triple Mojo Potion]]></item>
+			<body><![CDATA[Lucky Frog! Mojo flows abundant! Earn TRIPLE Mojo for every game. ]]></body>
+		</potion_giveaway>
+		<level id="2">
+			<header><![CDATA[NEW POWER!]]></header>
+			<item><![CDATA[Time Balls]]></item>
+			<body><![CDATA[Puny Frog! I grant you Balls of Time. Blast them to get five extra seconds!]]></body>
+		</level>
+		<level id="3">
+			<header><![CDATA[NEW POWER!]]></header>
+			<item><![CDATA[Hot Frog]]></item>
+			<body><![CDATA[Hot Frog alights from the heavens. Shoot quickly to summon three mortifying Fireballs!]]></body>
+		</level>
+		<level id="4">
+			<header><![CDATA[AWARD!]]></header>
+			<item><![CDATA[Spirit Animals]]></item>
+			<body><![CDATA[Worthy Frog! You call forth Spirit Animals to celebrate your score. Play plenty to hoard them all!]]></body>
+		</level>
+		<level id="5">
+			<header><![CDATA[NEW POWER!]]></header>
+			<item><![CDATA[Temple & Bombs]]></item>
+			<body><![CDATA[The Temple hungers for Mojo. Feed it and it will reward you with strong Powers! And speaking of Powers, now you'll get to use Bombs!]]></body>
+		</level>
+		<level id="6">
+			<header><![CDATA[BONUS ITEM!]]></header>
+			<item><![CDATA[Fruit]]></item>
+			<body><![CDATA[Sweet, tasty fruit! Shoot them with balls to earn big points! Score value grows with each Fruit collected!]]></body>
+		</level>
+		<level id="7">
+			<header><![CDATA[NEW POWER!]]></header>
+			<item><![CDATA[Last Hurrah]]></item>
+			<body><![CDATA[Last Hurrah Power makes special balls explode for points after the game! Your end is mighty!]]></body>
+		</level>
+		<level id="8">
+			<header><![CDATA[BONUS ITEM!]]></header>
+			<item><![CDATA[Treasure Chests]]></item>
+			<body><![CDATA[Shoot Chests to collect them during play! Afterwards open for sweet prizes!]]></body>
+		</level>
+		<level id="9">
+			<header><![CDATA[TEMPLE UPGRADE!]]></header>
+			<item><![CDATA[Power Slot]]></item>
+			<body><![CDATA[Another Power slot is yours to use! Powers grow for fatter points!]]></body>
+		</level>
+		<level id="10">
+			<header><![CDATA[NEW POWER!]]></header>
+			<item><![CDATA[Speed Shot]]></item>
+			<body><![CDATA[Ball speed is all. Use Speed Ball Power to shoot faster and speed your balls!]]></body>
+		</level>
+		<level id="11">
+			<header><![CDATA[LIFE UPGRADE!]]></header>
+			<item><![CDATA[Life Container]]></item>
+			<body><![CDATA[For mysterious reasons I grant you one more heart. Ball-blasting is now extended!]]></body>
+		</level>
+		<level id="12">
+			<header><![CDATA[CHEST UPGRADE!]]></header>
+			<item><![CDATA[Treasure Chest Slot]]></item>
+			<body><![CDATA[Fortune grins at you. Your treasure chests have an extra slot for victory!]]></body>
+		</level>
+		<level id="13">
+			<header><![CDATA[LIFE UPGRADE]]></header>
+			<item><![CDATA[Faster Regen]]></item>
+			<body><![CDATA[Hearts are for life. Now your hearts come back faster for more crushing!]]></body>
+		</level>
+		<level id="14">
+			<header><![CDATA[MORE POWER!]]></header>
+			<item><![CDATA[Critical Hit]]></item>
+			<body><![CDATA[Kabloom! You got a small chance for double points on each shot now!]]></body>
+		</level>
+		<level id="15">
+			<header><![CDATA[TEMPLE UPGRADE!]]></header>
+			<item><![CDATA[Power slot]]></item>
+			<body><![CDATA[Arg! Your ball-blasting is huge! All three Power slots can now be used by you!]]></body>
+		</level>
+		<level id="16">
+			<header><![CDATA[NEW POWER!]]></header>
+			<item><![CDATA[Cannon]]></item>
+			<body><![CDATA[Fractious Frog! I grant you the Cannon of Balls. Use fire and iron to blast in 3 directions!]]></body>
+		</level>
+		<level id="17">
+			<header><![CDATA[ITEM UPGRADE!]]></header>
+			<item><![CDATA[NEW FRUIT]]></item>
+			<body><![CDATA[Fruit-gulping Frog! I grant your fruit more sweetness. Blast them for even more points!]]></body>
+		</level>
+		<level id="18">
+			<header><![CDATA[LIFE UPGRADE!]]></header>
+			<item><![CDATA[Life Container]]></item>
+			<body><![CDATA[Fungible Frog! Here is another heart of life. Use it fiercely!]]></body>
+		</level>
+		<level id="19">
+			<header><![CDATA[NEW POWER!]]></header>
+			<item><![CDATA[Inferno Frog]]></item>
+			<body><![CDATA[Volcanic power! Inferno Frog Power gives Hot Frog four blasts instead of three!]]></body>
+		</level>
+		<level id="20">
+			<header><![CDATA[MOJO UPGRADE!]]></header>
+			<item><![CDATA[More Mojo]]></item>
+			<body><![CDATA[Mojo completes you. Now you earn 50% more Mojo for every blasted ball!]]></body>
+		</level>
+		<level id="21">
+			<header><![CDATA[AWARDS!]]></header>
+			<item><![CDATA[Spirit Animal]]></item>
+			<body><![CDATA[You have released Spirit Animal Eagle. Now scores of 1.1 Million are recognized by Spirits!]]></body>
+		</level>
+		<level id="22">
+			<header><![CDATA[LIFE UPGRADE!]]></header>
+			<item><![CDATA[Faster Regen]]></item>
+			<body><![CDATA[Undying Frog! Now your hearts come back even faster than before!]]></body>
+		</level>
+		<level id="23">
+			<header><![CDATA[NEW POWER!]]></header>
+			<item><![CDATA[Fruit Master]]></item>
+			<body><![CDATA[Tasting Frog! I grant Fruit Master Power. Fruit pops more often now, yes!]]></body>
+		</level>
+		<level id="24">
+			<header><![CDATA[LIFE UPGRADE!]]></header>
+			<item><![CDATA[Life Container]]></item>
+			<body><![CDATA[I feel generous today. Here. Take this extra heart for more living force!]]></body>
+		</level>
+		<level id="25">
+			<header><![CDATA[AWARDS!]]></header>
+			<item><![CDATA[Spirit Animal]]></item>
+			<body><![CDATA[See the noble Spirit Animal Alligator! Score over 1.2 Million to make him happy!]]></body>
+		</level>
+		<level id="26">
+			<header><![CDATA[LIFE UPGRADE!]]></header>
+			<item><![CDATA[Faster Regen]]></item>
+			<body><![CDATA[Faster! Even faster now do your hearts come back!]]></body>
+		</level>
+		<level id="27">
+			<header><![CDATA[NEW POWER!]]></header>
+			<item><![CDATA[Chain Blast]]></item>
+			<body><![CDATA[Explosive Frog! I grant Chain Blast Power. Chain together shots and soon see big explosions!]]></body>
+		</level>
+		<level id="28">
+			<header><![CDATA[AWARDS!]]></header>
+			<item><![CDATA[Spirit Animal]]></item>
+			<body><![CDATA[Spirit Animal Shark guides you and inspires you. Swim past 1.3 Million to earn his respect!]]></body>
+		</level>
+		<level id="29">
+			<header><![CDATA[MOJO UPGRADE!]]></header>
+			<item><![CDATA[More Mojo]]></item>
+			<body><![CDATA[Prodigious Frog! Now balls give double normal Mojo. Load up on Mojo big-time!]]></body>
+		</level>
+		<level id="30">
+			<header><![CDATA[NEW POWER!]]></header>
+			<item><![CDATA[Chrono Balls]]></item>
+			<body><![CDATA[More time is needed! Chrono Ball Power makes Time Balls better, adds +1 second to each!]]></body>
+		</level>
+		<level id="31">
+			<header><![CDATA[LIFE UPGRADE!]]></header>
+			<item><![CDATA[Faster Regen]]></item>
+			<body><![CDATA[You use your heart strongly! Now hearts come back faster than ever!]]></body>
+		</level>
+		<level id="32">
+			<header><![CDATA[CHEST UPGRADE!]]></header>
+			<item><![CDATA[Treasure Chest Slot]]></item>
+			<body><![CDATA[Lucky Frog! Now your treasure chests have more potential for reward!]]></body>
+		</level>
+		<level id="33">
+			<header><![CDATA[LIFE UPGRADE!]]></header>
+			<item><![CDATA[Life Container]]></item>
+			<body><![CDATA[Another heart. Here, take it. It is awesome to add more living!]]></body>
+		</level>
+		<level id="34">
+			<header><![CDATA[NEW POWER!]]></header>
+			<item><![CDATA[Multiplier]]></item>
+			<body><![CDATA[Foom! Power gives you x2 starting multiplier!  Points get bigger faster sooner, yes!]]></body>
+		</level>
+		<level id="35">
+			<header><![CDATA[LIFE UPGRADE!]]></header>
+			<item><![CDATA[Faster Regen]]></item>
+			<body><![CDATA[Heartfelt Frog! Your hearts go by too quickly. Now they come back sooner!]]></body>
+		</level>
+		<level id="36">
+			<header><![CDATA[MORE POWER!]]></header>
+			<item><![CDATA[Critical Hit]]></item>
+			<body><![CDATA[Skpow! Critical Hit is slightly more likely to double points!]]></body>
+		</level>
+		<level id="37">
+			<header><![CDATA[ITEM UPGRADE!]]></header>
+			<item><![CDATA[New Fruit]]></item>
+			<body><![CDATA[I see you like the Fruit. Let the Fruit be tastier still, with more points!]]></body>
+		</level>
+		<level id="38">
+			<header><![CDATA[POWER UPGRADE!]]></header>
+			<item><![CDATA[Tiki Bombs]]></item>
+			<body><![CDATA[You need more power. This Tiki Bomb Power will give you it with Tiki style!]]></body>
+		</level>
+		<level id="39">
+			<header><![CDATA[LIFE UPGRADE!]]></header>
+			<item><![CDATA[Faster Regen]]></item>
+			<body><![CDATA[Hmmm... Power, Power... how about faster heart regeneration? Yes!]]></body>
+		</level>
+		<level id="40">
+			<header><![CDATA[MOJO UPGRADE!]]></header>
+			<item><![CDATA[More Mojo]]></item>
+			<body><![CDATA[Your efforts are major. Now you earn even more Mojo for every game!]]></body>
+		</level>
+		<level id="41">
+			<header><![CDATA[POWER UPGRADE!]]></header>
+			<item><![CDATA[Mega Hurrah]]></item>
+			<body><![CDATA[You please me, Frog. This Mega Hurrah kicks the balls of the old Last Hurrah!]]></body>
+		</level>
+		<level id="42">
+			<header><![CDATA[AWARDS!]]></header>
+			<item><![CDATA[Spirit Animal]]></item>
+			<body><![CDATA[Long time since new Spirit Animal! Hope you not score over 1.4 Million before now!]]></body>
+		</level>
+		<level id="43">
+			<header><![CDATA[LIFE UPGRADE!]]></header>
+			<item><![CDATA[Faster Regen]]></item>
+			<body><![CDATA[Life is for living. Live faster and better by getting hearts back quicker!]]></body>
+		</level>
+		<level id="44">
+			<header><![CDATA[POWER UPGRADE!]]></header>
+			<item><![CDATA[Super Speed]]></item>
+			<body><![CDATA[Long ago we spoke of Speed Ball. Now taste the glory of Super Speed Ball!]]></body>
+		</level>
+		<level id="45">
+			<header><![CDATA[ITEM UPGRADE!]]></header>
+			<item><![CDATA[New Fruit]]></item>
+			<body><![CDATA[Your Fruit has changed from what it was. It is now better and sweeter!]]></body>
+		</level>
+		<level id="46">
+			<header><![CDATA[POWER UPGRADE!]]></header>
+			<item><![CDATA[Cannon King]]></item>
+			<body><![CDATA[Strength from behind. This new Cannon King Power explodes greatly!]]></body>
+		</level>
+		<level id="47">
+			<header><![CDATA[LIFE UPGRADE!]]></header>
+			<item><![CDATA[Faster Regen]]></item>
+			<body><![CDATA[You are strong and know the drill. Faster heart regeneration is yours!]]></body>
+		</level>
+		<level id="48">
+			<header><![CDATA[MORE POWER!]]></header>
+			<item><![CDATA[Critical Hit]]></item>
+			<body><![CDATA[Likely Frog! I grant a slight betterment of your Critical Hit percentage!]]></body>
+		</level>
+		<level id="49">
+			<header><![CDATA[MOJO UPGRADE!]]></header>
+			<item><![CDATA[More Mojo]]></item>
+			<body><![CDATA[You crush balls mightily! Now your crushing earns triple the normal Mojo!]]></body>
+		</level>
+		<level id="50">
+			<header><![CDATA[POWER UPGRADE!]]></header>
+			<item><![CDATA[Sun Frog]]></item>
+			<body><![CDATA[The moon hides his face. Sun Frog Power told him to get lost and he did!]]></body>
+		</level>
+		<level id="51">
+			<header><![CDATA[AWARD!]]></header>
+			<item><![CDATA[Spirit Animal]]></item>
+			<body><![CDATA[Behold wondrous new Spirit Animal Jaguar! Don't feel bad, Spirit Animal Elephant. You are still great too.]]></body>
+		</level>
+		<level id="52">
+			<header><![CDATA[CHEST UPGRADE!]]></header>
+			<item><![CDATA[Treasure Chest Slot]]></item>
+			<body><![CDATA[Your chest gets luckier still. Only one spot remains locked!]]></body>
+		</level>
+		<level id="53">
+			<header><![CDATA[POWER UPGRADE!]]></header>
+			<item><![CDATA[Juicy Fruit]]></item>
+			<body><![CDATA[The wild sings out. It brings juicy Fruit forward oftener to amaze!]]></body>
+		</level>
+		<level id="54">
+			<header><![CDATA[ITEM UPGRADE!]]></header>
+			<item><![CDATA[New Fruit]]></item>
+			<body><![CDATA[Why eat old Fruit when new Fruit are available? I grant you new fruitful Fruit!]]></body>
+		</level>
+		<level id="55">
+			<header><![CDATA[MORE POWER!]]></header>
+			<item><![CDATA[Critical Hit]]></item>
+			<body><![CDATA[Laborious Frog! Your Hits of Critical just got a bit more likely!]]></body>
+		</level>
+		<level id="56">
+			<header><![CDATA[POWER UPGRADE!]]></header>
+			<item><![CDATA[Super Chain]]></item>
+			<body><![CDATA[Your old Chain Blast was mighty, Frog. But not as mighty as Super Chain!]]></body>
+		</level>
+		<level id="57">
+			<header><![CDATA[MORE POWER!]]></header>
+			<item><![CDATA[Critical Hit]]></item>
+			<body><![CDATA[Lightning cracks! Thunder roars! Your Critical Hit percentage just went up!]]></body>
+		</level>
+		<level id="58">
+			<header><![CDATA[AWARD!]]></header>
+			<item><![CDATA[Spirit Animal]]></item>
+			<body><![CDATA[Another Spirit Animal rises and takes his place. Love him as he loves you.]]></body>
+		</level>
+		<level id="59">
+			<header><![CDATA[POWER UPGRADE!]]></header>
+			<item><![CDATA[Voodoo Bombs]]></item>
+			<body><![CDATA[Hear the drums. The Voodoo Bomb Power is their curse and your delight!]]></body>
+		</level>
+		<level id="60">
+			<header><![CDATA[ITEM UPGRADE!]]></header>
+			<item><![CDATA[New Fruit]]></item>
+			<body><![CDATA[Fruit grows tastier and riper. It makes your mouth happier to eat!]]></body>
+		</level>
+		<level id="61">
+			<header><![CDATA[MORE POWER!]]></header>
+			<item><![CDATA[Critical Hit]]></item>
+			<body><![CDATA[Splendid Frog! You deserve more Critical Hitting. You will have it!]]></body>
+		</level>
+		<level id="62">
+			<header><![CDATA[POWER UPGRADE!]]></header>
+			<item><![CDATA[Epic Fruit]]></item>
+			<body><![CDATA[Do you believe Fruit can appear so many times? Epic Fruit makes it happen!]]></body>
+		</level>
+		<level id="63">
+			<header><![CDATA[MORE POWER!]]></header>
+			<item><![CDATA[Critical Hit]]></item>
+			<body><![CDATA[Do not consider Critical Hit upgrades as filler. They are so much more!]]></body>
+		</level>
+		<level id="64">
+			<header><![CDATA[AWARD!]]></header>
+			<item><![CDATA[Spirit Animal]]></item>
+			<body><![CDATA[Bouncy Frog! Meet Spirit Animal Lion. Is she not totally great?]]></body>
+		</level>
+		<level id="65">
+			<header><![CDATA[ITEM UPGRADE!]]></header>
+			<item><![CDATA[New Fruit]]></item>
+			<body><![CDATA[The voice of the Fruit is juicy. More juice is yours, and more juiciness also!]]></body>
+		</level>
+		<level id="66">
+			<header><![CDATA[POWER UPGRADE!]]></header>
+			<item><![CDATA[Tempus Fugit]]></item>
+			<body><![CDATA[Temporal Frog! Time is your thing. Tempus Fugit Power extends time! Try it!]]></body>
+		</level>
+		<level id="67">
+			<header><![CDATA[MORE POWER!]]></header>
+			<item><![CDATA[Critical Hit]]></item>
+			<body><![CDATA[Perhaps your taste for Critical Hits has slackened. This upgrade will change that forever!]]></body>
+		</level>
+		<level id="68">
+			<header><![CDATA[CHEST UPGRADE!]]></header>
+			<item><![CDATA[Treasure Chest Slot]]></item>
+			<body><![CDATA[See, Risky Frog! See how your Treasure Chest is full of tasty surprise!]]></body>
+		</level>
+		<level id="69">
+			<header><![CDATA[POWER UPGRADE!]]></header>
+			<item><![CDATA[Super Cannon]]></item>
+			<body><![CDATA[Kraka-BOOM! Old Cannon King Power is made totally lame by new Super Cannon!]]></body>
+		</level>
+		<level id="70">
+			<header><![CDATA[MORE POWER!]]></header>
+			<item><![CDATA[Critical Hit]]></item>
+			<body><![CDATA[Boom! Zaka-zaka! More Critical Hit likelihood! How are those apples, Frog?]]></body>
+		</level>
+		<level id="71">
+			<header><![CDATA[AWARD!]]></header>
+			<item><![CDATA[Spirit Animal]]></item>
+			<body><![CDATA[Brag, O Boastful Frog. Brag of your new and oh-so-shiny Spirit Animal Dinosaur!]]></body>
+		</level>
+		<level id="72">
+			<header><![CDATA[ITEM UPGRADE!]]></header>
+			<item><![CDATA[New Fruit]]></item>
+			<body><![CDATA[Slurp! Has a Frog ever feasted on Fruit as great as this new one? Unlikely!]]></body>
+		</level>
+		<level id="73">
+			<header><![CDATA[POWER UPGRADE!]]></header>
+			<item><![CDATA[Warp Speed]]></item>
+			<body><![CDATA[Cram! The gods shatter! The Warp Ball Power blinds goats and shocks everyone!]]></body>
+		</level>
+		<level id="74">
+			<header><![CDATA[MORE POWER!]]></header>
+			<item><![CDATA[Critical Hit]]></item>
+			<body><![CDATA[Rowdy Frog! Earn more points more quickly with saucy new Critical Hits!]]></body>
+		</level>
+		<level id="75">
+			<header><![CDATA[POWER UPGRADE!]]></header>
+			<item><![CDATA[Mega Chain]]></item>
+			<body><![CDATA[You fight hard, Fierce Frog. Have a Mega Chain Power! Seriously, it is on me.]]></body>
+		</level>
+		<level id="76">
+			<header><![CDATA[AWARD!]]></header>
+			<item><![CDATA[Spirit Animal]]></item>
+			<body><![CDATA[Ha! Now Spirit Animal Unicorn takes his place by your side. Revere him!]]></body>
+		</level>
+		<level id="77">
+			<header><![CDATA[POWER UPGRADE!]]></header>
+			<item><![CDATA[Timelord]]></item>
+			<body><![CDATA[Time is a relative dimension in space. The Timelord Power is absolute!]]></body>
+		</level>
+		<level id="78">
+			<header><![CDATA[AWARD!]]></header>
+			<item><![CDATA[Spirit Animal]]></item>
+			<body><![CDATA[Collecting Frog! See your final Spirit Animal. It pleases me that you have the full set.]]></body>
+		</level>
+		<level id="79">
+			<header><![CDATA[POWER UPGRADE!]]></header>
+			<item><![CDATA[Multi-Multiplier]]></item>
+			<body><![CDATA[Crush all balls! Use this Multi-Multiplier Power for points unthinkable!]]></body>
+		</level>
+		<level id="80">
+			<header><![CDATA[AWARD!]]></header>
+			<item><![CDATA[Golden Frog]]></item>
+			<body><![CDATA[Aurous Frog! Now you are great and Golden! Forever now your shots are 10% faster!]]></body>
+		</level>
+		
+	</unlocks_dialog>
+	<!-- ==================================================================================================================== -->
+	<highscore_dialog>
+		<header><![CDATA[NEW HIGH SCORE]]></header>
+		<bosshead><![CDATA[You have fought well, mighty frog. Here is proof of your greatness!]]></bosshead> 
+		<frog><![CDATA[RIBBIT!]]></frog>
+		<leftbtnlabel><![CDATA[Skip]]></leftbtnlabel>
+		<rightbtnlabel><![CDATA[Share]]></rightbtnlabel>
+	</highscore_dialog>
+	<!-- ==================================================================================================================== -->
+	<walkthroughs>
+		<life>
+			<dialogStart><![CDATA[The Coin has failed you. This once I will save you! Here are $num Idols just to buy a Full Life Refill right now.]]></dialogStart>
+			<dialogEnd><![CDATA[Your Life has been restored! I'll see you next time you run out of Life. Trust me; it will happen.]]></dialogEnd>
+			<infoStore><![CDATA[Buy Life from the Store. Click to go there.]]></infoStore>
+			<infoItem><![CDATA[This will fill up all $num of your Hearts. Click it now to buy it.]]></infoItem>
+			<infoTab><![CDATA[Click the Life tab to buy more Life.]]></infoTab>
+		</life>
+		<temple>
+			<dialogStart><![CDATA[Congratulations! You have unlocked the Temple. Your first Power is Bombs! Follow the arrows to use it in your next game.]]></dialogStart>
+			<dialogEnd><![CDATA[Bombs cost Mojo every game they are used. Disable Bombs at any time by selecting them in the Temple. Enjoy your new Power!]]></dialogEnd>
+			<infoClose><![CDATA[Click to close the Temple and play your next game.]]></infoClose>
+			<infoItem><![CDATA[Click to use Bombs in your next game.]]></infoItem>
+			<infoOpen><![CDATA[Click to open the Temple.]]></infoOpen>
+		</temple>
+		<templeSecond>
+			<btnChange><![CDATA[Change Powers]]></btnChange>
+			<btnContinue><![CDATA[OK]]></btnContinue>
+			<dialogStart><![CDATA[<p>You just unlocked the Last Hurrah Power!</p>]]></dialogStart>
+			<dialogEnd><![CDATA[<p>Change which Powers to<br/>play with by clicking on them.]]></dialogEnd>
+			<infoFirepit><![CDATA[First, remove your active Power by clicking on it.]]></infoFirepit>
+			<infoItem><![CDATA[Click to activate the Last Hurrah Power.]]></infoItem>
+			<infoOpen><![CDATA[Click here to open your temple of Powers.]]></infoOpen>
+			<infoClose><![CDATA[Click Close to play your next game with Last Hurrah.]]></infoClose>
+		</templeSecond>
+		<mojo>
+			<dialogStart><![CDATA[Stock up on Mojo to use Powers. Follow the arrows to buy some now.]]></dialogStart>
+			<dialogEnd><![CDATA[Congrats! You have enough Mojo to use your Powers!]]></dialogEnd>
+			<infoStore><![CDATA[Buy Mojo from the Store. Click to go there.]]></infoStore>
+			<infoItem><![CDATA[This will give you $num Mojo. Click it now to buy it.]]></infoItem>
+		</mojo>
+		<potionXp>
+			<dialogStart><![CDATA[Want more XP? Zuma give more! Here are $num Idols just to buy a <br/>Double XP Potion right now!]]></dialogStart>
+			<dialogEnd><![CDATA[Your new XP Potion lasts 24 hours! Play lots Zuma!<br/>HUA!]]></dialogEnd>
+			<infoStore><![CDATA[Buy Potions from the Store.<br/>Click to go there.]]></infoStore>
+			<infoItem><![CDATA[This Potion earns you DOUBLE the XP for 24 hours.]]></infoItem>
+			<infoTab><![CDATA[Click the Potions tab to buy a Potion.]]></infoTab>
+			<infoPotions><![CDATA[Here are your active Potions.<br/>Click to continue.]]></infoPotions>
+		</potionXp>
+	</walkthroughs>
+	<!-- ==================================================================================================================== -->
+	<drmojo>
+		<title><![CDATA[Out of Mojo!]]></title>
+		<info><![CDATA[<p>Me Dr. Mojo. Me see you out of Mojo. You no can use Powers. <br/>Is ok. Me here to help!</p>]]></info>
+		<choose><![CDATA[Switch Powers]]></choose>
+		<noThanks><![CDATA[Play with no Powers]]></noThanks>
+		<storeInfo><![CDATA[Go to the Store]]></storeInfo>
+		<storeLabel><![CDATA[Go!]]></storeLabel>
+		<walkthrough><![CDATA[<p>Me give you extra Idols this time just to buy Mojo right now.</p>]]></walkthrough>
+		<btnWalkthrough><![CDATA[GET FREE MOJO]]></btnWalkthrough>
+		<item>
+			<id>0</id>
+			<info><![CDATA[Buy 25,000 Mojo for 30 Idols]]></info>
+			<label><![CDATA[Gimme!]]></label>
+		</item>
+		<item>
+			<id>1</id>
+			<info><![CDATA[Buy 100,000 Mojo for 90 Idols]]></info>
+			<label><![CDATA[Gimme!]]></label>
+		</item>
+	</drmojo>
+	<!-- ==================================================================================================================== -->
+	<levelnames>
+		<name level="1">Outcast</name>
+		<name level="2">Whelp</name>
+		<name level="3">Tribeling</name>
+		<name level="4">Kudo Carver</name>
+		<name level="5">Temple Sweeper</name>
+		<name level="6">Fruit Scout</name>
+		<name level="7">Time Keeper</name>
+		<name level="8">Treasure Keeper</name>
+		<name level="9">Spear Sharpener</name>
+		<name level="10">Hut Builder</name>
+		<name level="11">Heart Healer</name>
+		<name level="12">Treasure Herder</name>
+		<name level="13">Heart Mender</name>
+		<name level="14">Orb Smacker</name>
+		<name level="15">Temple Cleaner</name>
+		<name level="16">Path Hacker</name>
+		<name level="17">Fruit Slicer</name>
+		<name level="18">Heart Finder</name>
+		<name level="19">Powder Packer</name>
+		<name level="20">Mojo Monger</name>
+		<name level="21">Kudo Keeper</name>
+		<name level="22">Heart Cleaner</name>
+		<name level="23">Sphere Smasher</name>
+		<name level="24">Heart Collector</name>
+		<name level="25">Kudo Guard</name>
+		<name level="26">Heart Doctor</name>
+		<name level="27">Sphere Basher</name>
+		<name level="28">Kudo Defender</name>
+		<name level="29">Mojo Collector</name>
+		<name level="30">Sphere Crusher</name>
+		<name level="31">Heart Protector</name>
+		<name level="32">Treasure Sage</name>
+		<name level="33">Heart Champion</name>
+		<name level="34">Sphere Smusher</name>
+		<name level="35">Heart Hero</name>
+		<name level="36">Orb Eliminator</name>
+		<name level="37">Fruit Chef</name>
+		<name level="38">Sphere Blaster</name>
+		<name level="39">Heart Legend</name>
+		<name level="40">Mojo Maven</name>
+		<name level="41">Ball Cracker</name>
+		<name level="42">Kudo Protector</name>
+		<name level="43">Heart Master</name>
+		<name level="44">Ball Smacker</name>
+		<name level="45">Fruit Warrior</name>
+		<name level="46">Ball Zapper</name>
+		<name level="47">Heart Chief</name>
+		<name level="48">Orb Decimator</name>
+		<name level="49">Mojo Master</name>
+		<name level="50">Ball Exploder</name>
+		<name level="51">Kudo Mystic</name>
+		<name level="52">Treasure Guard</name>
+		<name level="53">Ball Burster</name>
+		<name level="54">Fruit Champion</name>
+		<name level="55">Orb Annihilator</name>
+		<name level="56">Ball Crasher</name>
+		<name level="57">Orb Expunger</name>
+		<name level="58">Kudo King</name>
+		<name level="59">Ball Smasher</name>
+		<name level="60">Fruit Smoothie</name>
+		<name level="61">Orb Eradicator</name>
+		<name level="62">Ball Basher</name>
+		<name level="63">Orb Demolisher</name>
+		<name level="64">Kudo Champion</name>
+		<name level="65">Fruit Mystic</name>
+		<name level="66">Ball Hunter</name>
+		<name level="67">Orb Eater</name>
+		<name level="68">Treasure Champ</name>
+		<name level="69">Ball Abolisher</name>
+		<name level="70">Orb Clobberer</name>
+		<name level="71">Kudo Legend</name>
+		<name level="72">Fruit Veteran</name>
+		<name level="73">Ball Breaker</name>
+		<name level="74">Orb Slammer</name>
+		<name level="75">Ball Blaster</name>
+		<name level="76">Kudo Boss</name>
+		<name level="77">Ball King</name>
+		<name level="78">Kudo Veteran</name>
+		<name level="79">Ball Paragon</name>
+		<name level="80">Golden Frog</name>
+		<name level="81">Astute Frog</name>
+		<name level="82">Boisterous Frog</name>
+		<name level="83">Capable Frog</name>
+		<name level="84">Dependable Frog</name>
+		<name level="85">Exemplary Frog</name>
+		<name level="86">Fabulous Frog</name>
+		<name level="87">Great Frog</name>
+		<name level="88">Hellacious Frog</name>
+		<name level="89">Insatiable Frog</name>
+		<name level="90">Zuma Frog</name>
+		<name level="91">Zuma Defender</name>
+		<name level="92">Zuma Warrior</name>
+		<name level="93">Zuma Champion</name>
+		<name level="94">Zuma Boss</name>
+		<name level="95">Zuma Mystic</name>
+		<name level="96">Zuma Veteran</name>
+		<name level="97">Zuma Baller</name>
+		<name level="98">Zuma Blaster</name>
+		<name level="99">Zuma King</name>
+		<name level="100">Zuma Paragon</name>
+	</levelnames>
+	<!-- ==================================================================================================================== -->
+	<spirit_animals>
+		<ranks>
+			<rank id="1">Initiate</rank>
+			<rank id="2">Shaman</rank>
+			<rank id="3">Chief</rank>
+			<rank id="4">Elder</rank>
+			<rank id="5">Master</rank>
+			<rank id="6">Avatar</rank>
+		</ranks>
+		<animals>
+			<animal id="1">Beetle</animal>
+			<animal id="2">Rat</animal>
+			<animal id="3">Lizard</animal>
+			<animal id="4">Weasel</animal>
+			<animal id="5">Snake</animal>
+			<animal id="6">Cow</animal>
+			<animal id="7">Cat</animal>
+			<animal id="8">Sheep</animal>
+			<animal id="9">Turtle</animal>
+			<animal id="10">Rabbit</animal>
+			<animal id="11">Jackal</animal>
+			<animal id="12">Goat</animal>
+			<animal id="13">Ox</animal>
+			<animal id="14">Fish</animal>
+			<animal id="15">Hound</animal>
+			<animal id="16">Toucan</animal>
+			<animal id="17">Lemur</animal>
+			<animal id="18">Eagle</animal>
+			<animal id="19">Alligator</animal>
+			<animal id="20">Shark</animal>
+			<animal id="21">Elephant</animal>
+			<animal id="22">Jaguar</animal>
+			<animal id="23">Bear</animal>
+			<animal id="24">Lion</animal>
+			<animal id="25">Dinosaur</animal>
+			<animal id="26">Unicorn</animal>
+			<animal id="27">Quetzalcoatl</animal>
+		</animals>
+	</spirit_animals>
+	<!-- ==================================================================================================================== -->
+	<spirit_animal_dialog>		
+		<first>
+			<header><![CDATA[Spirit Animal Unlocked!]]></header>
+			<header><![CDATA[[ANIMAL]]]></header>
+			<header><![CDATA[Score: [SCORE]]]></header>			
+			<body><![CDATA[You earned your first Spirit [ANIMAL] token!<br/><br/>Show your Zuma Blitz friends that [ANIMAL] has your back.]]></body>
+		</first>		
+		<week>
+			<header><![CDATA[New High Score!]]></header>
+			<header><![CDATA[[SCORE]]]></header>
+			<header><![CDATA[You earned a Spirit Animal Token!]]></header>			
+			<body><![CDATA[Your score earned another [ANIMAL] token!<br/><br/>Share proof of your greatness with friends that play Zuma Blitz.]]></body>
+		</week>
+		<tally><![CDATA[Earned [TALLY] of [THRESHOLD]]]></tally>
+		<leftbtnlabel><![CDATA[Skip]]></leftbtnlabel>
+		<rightbtnlabel><![CDATA[Share]]></rightbtnlabel>
+	</spirit_animal_dialog>
+	<!-- ==================================================================================================================== -->
+	<spirit_animal_rankup_dialog>
+		<animal><![CDATA[SPIRIT [ANIMAL]]]></animal>
+		<header><![CDATA[PROMOTION!]]></header>
+		<body><![CDATA[Your score earned your Spirt Animal]]></body>
+		<body><![CDATA[[VALUE] Circle of Mastery]]></body>
+		<body><![CDATA[...and a promotion to]]></body>
+		<leftbtnlabel><![CDATA[Skip]]></leftbtnlabel>
+		<rightbtnlabel><![CDATA[Share]]></rightbtnlabel>
+		<quotes>
+			<quote id="1">
+				<rank id="1"><![CDATA[Dash of the Beetle! Strike of the Beetle! Bite of the Beetle!]]></rank>
+				<rank id="2"><![CDATA[The wisdom of the beetle is known to the ant but lost to the lion.]]></rank>
+				<rank id="3"><![CDATA[The beetle does not move. But look away for a moment and see! The beetle is gone.]]></rank>
+				<rank id="4"><![CDATA[The elder beetle has been around the block not once, twice or thrice, but... what's the word for four times?]]></rank>
+				<rank id="5"><![CDATA[The master beetle knows his moment. He has lived it a thousand times before it arrives.]]></rank>
+				<rank id="6"><![CDATA[The avatar beetle shows his colors, but only at night.]]></rank>
+			</quote>
+			<quote id="2">
+				<rank id="1"><![CDATA[Squeak of the Rat! Spirit of the Rat! Sneak of the Rat!]]></rank>
+				<rank id="2"><![CDATA[The wisdom of the rat is not loud. But when all other beasts are gone, only the rat remains.]]></rank>
+				<rank id="3"><![CDATA[The rat bides his time, for he knows the lion cannot eat all its kill.]]></rank>
+				<rank id="4"><![CDATA[Canny is the elder rat, attuned to his surroundings, wary of one-time offers and big front-end discounts.]]></rank>
+				<rank id="5"><![CDATA[Be mindful of the master rat. When he vanishes, wise animals do the same.]]></rank>
+				<rank id="6"><![CDATA[An old rat is a brave rat.]]></rank>
+			</quote>
+			<quote id="3">
+				<rank id="1"><![CDATA[Skin of the Lizard!]]></rank>
+				<rank id="2"><![CDATA[The lizard knows his way. It's the raccoon's way that messes him up.]]></rank>
+				<rank id="3"><![CDATA[When the lizard looks into the abyss, the abyss looks back and says, "Whoa, a lizard."]]></rank>
+				<rank id="4"><![CDATA[Elder lizard feels good about where he's at in life, but he knows there's room for improvement.]]></rank>
+				<rank id="5"><![CDATA[When the master lizard loses a leg, he grows it back. Then he finds the old leg behind the couch.]]></rank>
+				<rank id="6"><![CDATA[The skin of the avatar lizard turns to gold, so he must be doing something right.]]></rank>
+			</quote>
+			<quote id="4">
+				<rank id="1"><![CDATA[Tooth of the Weasel!]]></rank>
+				<rank id="2"><![CDATA[The weasel knows the truth. Trouble is, it's a weasel truth.]]></rank>
+				<rank id="3"><![CDATA[The weasel knows when to hold 'em, and also when to fold 'em. It's walking away he has problems with.]]></rank>
+				<rank id="4"><![CDATA[The weasel elder is sneaky, but he's sneaky enough to know how not to LOOK sneaky, if you know what I mean.]]></rank>
+				<rank id="5"><![CDATA[The weasel master hunts only at night. But in the day, he hunts for bargains.]]></rank>
+				<rank id="6"><![CDATA[The avatar weasel watches you, measures you, tests you. He wants to know if you can spare a couple bucks.]]></rank>
+			</quote>
+			<quote id="5">
+				<rank id="1"><![CDATA[Fang of the Snake!]]></rank>
+				<rank id="2"><![CDATA[The fang of the snake is sharp, but also laced with poison. It's a pretty good fang, considering.]]></rank>
+				<rank id="3"><![CDATA[The eye of the snake is unblinking. His gaze is fixed. But his mind is on faraway donuts.]]></rank>
+				<rank id="4"><![CDATA[Elder snake looks back at a long life and thinks, "Man, I sure did leave a lot of shedded skin all over the place."]]></rank>
+				<rank id="5"><![CDATA[The scale of the snake sparkles at noon. But when two o'clock rolls around, sparkle time is over.]]></rank>
+				<rank id="6"><![CDATA[Many are the mysteries of the avatar snake. They start with his Italian sandal collection and just get weirder.]]></rank>
+			</quote>
+			<quote id="6">
+				<rank id="1"><![CDATA[Horn of the Cow!]]></rank>
+				<rank id="2"><![CDATA[The cow is wise, but not too wise, for in this she likes to keep people guessing.]]></rank>
+				<rank id="3"><![CDATA[When the cow closes her eyes, know then that the party is truly over.]]></rank>
+				<rank id="4"><![CDATA[The cow takes its time, measures its pace, and prepares for bed with a cool glass of grape-apple fruit juice.]]></rank>
+				<rank id="5"><![CDATA[The persistence of the cow is her power. She knows the cud will get tasty after enough chews.]]></rank>
+				<rank id="6"><![CDATA[When the cow plants her hoof, she will not be moved. When she lifts her hoof, that's when you tip her over.]]></rank>
+			</quote>
+			<quote id="7">
+				<rank id="1"><![CDATA[Claw of the Cat! Meow of the Cat!]]></rank>
+				<rank id="2"><![CDATA[If you wonder at the way of the cat, you have yet to check your slippers.]]></rank>
+				<rank id="3"><![CDATA[The cat can meow all it wants but he's been outside already this evening.]]></rank>
+				<rank id="4"><![CDATA[The elder cat knows peace, for it worked out a sweet deal long ago and isn't budging for anything.]]></rank>
+				<rank id="5"><![CDATA[The purr of the master cat soothes the heart of the most rageful beasts, except for alligators.]]></rank>
+				<rank id="6"><![CDATA[When the avatar cat fixes her unblinking gaze on something, that means she's asleep.]]></rank>
+			</quote>
+			<quote id="8">
+				<rank id="1"><![CDATA[Baaa of the Sheep!]]></rank>
+				<rank id="2"><![CDATA[The shepherd tends the herd, but the sheep do all the high-level management.]]></rank>
+				<rank id="3"><![CDATA[Soft is the wool of the sheep, but scratchy are her hooves.]]></rank>
+				<rank id="4"><![CDATA[Irascible is the mood of the elder sheep, at least until somebody explains what "irascible" means.]]></rank>
+				<rank id="5"><![CDATA[The sheep says "baaaa," but only because she's stalling for time.]]></rank>
+				<rank id="6"><![CDATA[The glory of the avatar sheep cannot be matched by gold, gems or federal bonds.]]></rank>
+			</quote>
+			<quote id="9">
+				<rank id="1"><![CDATA[Shell of the Turtle!]]></rank>
+				<rank id="2"><![CDATA[The wise turtle relies for safety not on his shell but on his diversified portfolio.]]></rank>
+				<rank id="3"><![CDATA[The turtle may be slow, but he makes up for it by kicking the rabbit in the kneecaps.]]></rank>
+				<rank id="4"><![CDATA[The elder turtle makes the elder everybody else look like they just knocked out their first tooth at kindergarten.]]></rank>
+				<rank id="5"><![CDATA[It is easy to underestimate the master turtle on land, but in the sea, whoa, watch out.]]></rank>
+				<rank id="6"><![CDATA[Many have mistaken the avatar turtle for a shiny candy, and they have paid for their mistake.]]></rank>
+			</quote>
+			<quote id="10">
+				<rank id="1"><![CDATA[Foot of the Rabbit!]]></rank>
+				<rank id="2"><![CDATA[Fleet of foot is the rabbit, and quicker even on the draw.]]></rank>
+				<rank id="3"><![CDATA[Wise is he who knows not to get between the rabbit and a pound of gold-plated carrots.]]></rank>
+				<rank id="4"><![CDATA[The elder rabbit may not be as fast as he used to be, but he makes up for it with style and a lot of money.]]></rank>
+				<rank id="5"><![CDATA[The master rabbit chews slowly, for he knows that's where the real flavor is.]]></rank>
+				<rank id="6"><![CDATA[Praise the avatar rabbit, luckiest of beasts, for he draws to an inside straight every time.]]></rank>
+			</quote>
+			<quote id="11">
+				<rank id="1"><![CDATA[Grin of the Jackal!]]></rank>
+				<rank id="2"><![CDATA[The jackal laughs, and in his laugh know that he's figured out your little game.]]></rank>
+				<rank id="3"><![CDATA[The jackal is the cleverest of beasts, but don't ask him to install your printer.]]></rank>
+				<rank id="4"><![CDATA[Elder jackal knows where the good stuff is. Quick tip: it's just inside the haunch.]]></rank>
+				<rank id="5"><![CDATA[The master jackal coats himself in bling not for pride, but just so he knows where it all is.]]></rank>
+				<rank id="6"><![CDATA[In the eye of the avatar jackal wink the secrets of the world and the hot hot deal.]]></rank>
+			</quote>
+			<quote id="12">
+				<rank id="1"><![CDATA[Horn of the Goat!]]></rank>
+				<rank id="2"><![CDATA[See the goat's leap, and know that his lottery numbers totally worked out.]]></rank>
+				<rank id="3"><![CDATA[The goat backs down from neither the lion nor the hound, though he's a bit twitchy around the beetle.]]></rank>
+				<rank id="4"><![CDATA[Elder goat has in his time consumed wood, tin cans, old shoes, remote controls... he is not picky.]]></rank>
+				<rank id="5"><![CDATA[The beard of the goat has the look of scruff, but he spends a lot of time getting it just right.]]></rank>
+				<rank id="6"><![CDATA[Headbutt not the avatar goat because, face it buddy, you're gonna lose that one.]]></rank>
+			</quote>
+			<quote id="13">
+				<rank id="1"><![CDATA[Shoulder of the Ox!]]></rank>
+				<rank id="2"><![CDATA[Confuse not the ox with the yak, for the yak is a completely different animal.]]></rank>
+				<rank id="3"><![CDATA[Strong is the ox, strong yet sensitive, for he will cry at the flicks of chicks.]]></rank>
+				<rank id="4"><![CDATA[Elder ox looks over his shoulder, sees the yoke and thinks, "Truly, is it not yet Friday?"]]></rank>
+				<rank id="5"><![CDATA[Sturdy is the industrious master ox, toiling in the field for compliments.]]></rank>
+				<rank id="6"><![CDATA[When the ox puts down his yoke for the day, another he picks up for the night.]]></rank>
+			</quote>
+			<quote id="14">
+				<rank id="1"><![CDATA[Gill of the Fish!]]></rank>
+				<rank id="2"><![CDATA[Pointy are the teeth of the fish, but not so pointy as its sarcasm.]]></rank>
+				<rank id="3"><![CDATA[Oceans deep lives the fish, though it likes to summer in Morocco.]]></rank>
+				<rank id="4"><![CDATA[The longer the elder fish lives, the deeper it swims and the more interested it becomes in new medical technology.]]></rank>
+				<rank id="5"><![CDATA[The wisdom of the fish is cold and clammy and goes well with a Caesar salad.]]></rank>
+				<rank id="6"><![CDATA[The avatar fish leaps from the waters to grant wishes and high-fives all around.]]></rank>
+			</quote>
+			<quote id="15">
+				<rank id="1"><![CDATA[Bark of the Hound!]]></rank>
+				<rank id="2"><![CDATA[The loyalty of the hound speaks louder than any sound, though the barking can be pretty damn loud.]]></rank>
+				<rank id="3"><![CDATA[The hound fetches not for his master but for himself and his reputation.]]></rank>
+				<rank id="4"><![CDATA[The elder hound not only learns new tricks but carries a full course load at the local community college.]]></rank>
+				<rank id="5"><![CDATA[Know that as the tail of the master hound wags, so too does his heart.]]></rank>
+				<rank id="6"><![CDATA[Who's a good avatar hound? Is it you? Is it? It IS you! Good boy!]]></rank>
+			</quote>
+			<quote id="16">
+				<rank id="1"><![CDATA[Beak of the Toucan!]]></rank>
+				<rank id="2"><![CDATA[Adapted is the beak of the toucan for the gobbling of fruit and the cracking of nuts.]]></rank>
+				<rank id="3"><![CDATA[The wisdom of the toucan commands respect, but he prefers to downplay this aspect of his personality.]]></rank>
+				<rank id="4"><![CDATA[One day the elder toucan discovered it no longer liked coconuts. That was a rough day for the elder toucan.]]></rank>
+				<rank id="5"><![CDATA[Mistake not the toucan for the puffin, though the puffin will be pumped if you do.]]></rank>
+				<rank id="6"><![CDATA[The caw of the toucan rouses the spirit and lightens the heart, though only those of other toucans.]]></rank>
+			</quote>
+			<quote id="17">
+				<rank id="1"><![CDATA[Eye of the Lemur!]]></rank>
+				<rank id="2"><![CDATA[The lemur watches all, sees all, hears all, smells all, and posts all to his blog.]]></rank>
+				<rank id="3"><![CDATA[When the lemur calls out, know that you are seconds from being totally surrounded by lemurs.]]></rank>
+				<rank id="4"><![CDATA[The elder lemur never takes its opposable thumbs for granted, for in the animal kingdom such thumbs are quite the deal.]]></rank>
+				<rank id="5"><![CDATA[The master lemur is wise and knows all, but he likes to keep that little fact to himself.]]></rank>
+				<rank id="6"><![CDATA[The lemur marks his territory with care, distinction and... well, let's just leave it at care and distinction.]]></rank>
+			</quote>
+			<quote id="18">
+				<rank id="1"><![CDATA[Wing of the Eagle!]]></rank>
+				<rank id="2"><![CDATA[None escape the eye of the eagle, nor evade his story about how one time he found fifty bucks in a tree.]]></rank>
+				<rank id="3"><![CDATA[The eagle soars high above wind and cloud, but even he must come to earth to do his laundry.]]></rank>
+				<rank id="4"><![CDATA[The elder eagle is always on lookout, seeking secret knowledge and new ways to pick bits of bad squirrel out of his beak.]]></rank>
+				<rank id="5"><![CDATA[The master eagle strikes terror in the heart of the mouse, even when he's just asking for directions.]]></rank>
+				<rank id="6"><![CDATA[Of all living things, none sees farther than the avatar eagle except maybe a tapir with a radio telescope.]]></rank>
+			</quote>
+			<quote id="19">
+				<rank id="1"><![CDATA[Jaw of the Gator!]]></rank>
+				<rank id="2"><![CDATA[The gnash of the alligator is much feared, but few realize it's all an act.]]></rank>
+				<rank id="3"><![CDATA[Mention neither wrestling nor boots to the alligator, for on these subjects he is touchy.]]></rank>
+				<rank id="4"><![CDATA[Many are the skills of the elder alligator. He is the absolute king, for example, of looking like a log.]]></rank>
+				<rank id="5"><![CDATA[The master alligator worked hard to get where he is, and darn it he is not going to apologize.]]></rank>
+				<rank id="6"><![CDATA[The bite of the avatar alligator is devastating, but that is just his way of saying, "Hi, I'd like to eat you."]]></rank>
+			</quote>
+			<quote id="20">
+				<rank id="1"><![CDATA[Fin of the Shark!]]></rank>
+				<rank id="2"><![CDATA[The shark never stops moving, though he frequently stops thinking.]]></rank>
+				<rank id="3"><![CDATA[The shark looks around, wonders why he has no friends, and then realizes, "Oh, right. I'm a shark."]]></rank>
+				<rank id="4"><![CDATA[The elder shark has been swimming for his whole life and sees no reason to change at this point in the game.]]></rank>
+				<rank id="5"><![CDATA[It is unwise to challenge the shark in his waters, unless you are talking backgammon.]]></rank>
+				<rank id="6"><![CDATA[The avatar shark never gets to show off, but when this starts to bother him, he gargles some krill and forgets about it.]]></rank>
+			</quote>
+			<quote id="21">
+				<rank id="1"><![CDATA[Nose of the Elephant!]]></rank>
+				<rank id="2"><![CDATA[Earth shakes and dust rises on the approach of the elephant, but he'd prefer if you didn't say anything.]]></rank>
+				<rank id="3"><![CDATA[The memory of the elephant is well known, even as his skill at symbolic logic gets completely ignored.]]></rank>
+				<rank id="4"><![CDATA[Over the years of life and memory, the elder elephant candidly admits he's actually forgotten quite a lot of stuff.]]></rank>
+				<rank id="5"><![CDATA[Long is the life of the elephant and much has he seen, but he's never seen anything like that score you just posted!]]></rank>
+				<rank id="6"><![CDATA[When the elephant departed this world, he left the avatar elephant behind to remind people how amazing elephants are.]]></rank>
+			</quote>
+			<quote id="22">
+				<rank id="1"><![CDATA[Tooth of the Jaguar!]]></rank>
+				<rank id="2"><![CDATA[Ferocious is the face of the jaguar, like seriously we're not kidding, look at him, he'll take your scalp off.]]></rank>
+				<rank id="3"><![CDATA[Attend to the howl of the jaguar, because if you don't things are not gonna go well for you.]]></rank>
+				<rank id="4"><![CDATA[Speak slowly to the elder jaguar, not because he can't follow you but because it gives him time to think.]]></rank>
+				<rank id="5"><![CDATA[When you reach the level of master jaguar, know that you have made it and you are cool.]]></rank>
+				<rank id="6"><![CDATA[There is no fear in the heart of the avatar jaguar, only a calm detached feeling of supreme awesome.]]></rank>
+			</quote>
+			<quote id="23">
+				<rank id="1"><![CDATA[Paw of the Bear!]]></rank>
+				<rank id="2"><![CDATA[The shaman bear emerges from his cave, sees his shadow and goes about his routine.]]></rank>
+				<rank id="3"><![CDATA[The chief bear is generally omnivorous, but he's got a particular weakness for foie gras.]]></rank>
+				<rank id="4"><![CDATA[He's seen it countless times, but the arrival of spring each year always hits the elder bear as a total shock.]]></rank>
+				<rank id="5"><![CDATA[When you get 1.6 Million points the master bear roars and prances about and generally kicks up a huge fuss.]]></rank>
+				<rank id="6"><![CDATA[Avatar bear is bear of all bears, lean and hungry and confident in his sweet Zuma skills.]]></rank>
+			</quote>			
+			<quote id="24">
+				<rank id="1"><![CDATA[Roar of the Lion!]]></rank>
+				<rank id="2"><![CDATA[Hush my darling, don't cry my darling, the shaman lion is busy with his crossword tonight.]]></rank>
+				<rank id="3"><![CDATA[The chief lion is chief of the king of the jungle. In truth this confuses him as much as anybody.]]></rank>
+				<rank id="4"><![CDATA[Elder lion looks around, sees that nobody is watching, and then smells his feet.]]></rank>
+				<rank id="5"><![CDATA[Master lion flops back on the savanna, torpid and satisfied with the huge Zuma score you got.]]></rank>
+				<rank id="6"><![CDATA[Avatar lion got 1.7 million points at Zuma once. Yep, that was a pretty awesome day.]]></rank>
+			</quote>
+			<quote id="25">
+				<rank id="1"><![CDATA[Age of the Dinosaur!]]></rank>
+				<rank id="2"><![CDATA[The shaman dinosaur grins his toothy grin and thinks about eating a squad of mammals for lunch.]]></rank>
+				<rank id="3"><![CDATA[When the dinosaur speaks, all listen. But he never does, so most people don't know that about him.]]></rank>
+				<rank id="4"><![CDATA[Elder dinosaur sometimes wonders about all these upstart lemurs but figures it doesn't really concern him.]]></rank>
+				<rank id="5"><![CDATA[Long has the master dinosaur hidden from the eyes of the world, but he's coming back, count on it.]]></rank>
+				<rank id="6"><![CDATA[Avatar dinosaur just signed a three-book deal and a movie option, so he's feeling pretty good.]]></rank>
+			</quote>
+			<quote id="26">
+				<rank id="1"><![CDATA[Secret of the Unicorn!]]></rank>
+				<rank id="2"><![CDATA[Every day the unicorn eats a basket of rainbows with a pinch of fairy dust for fibre.]]></rank>
+				<rank id="3"><![CDATA[The chief unicorn puts in 110 percent effort and gets good results pretty much every time.]]></rank>
+				<rank id="4"><![CDATA[Time means nothing to the unicorn, but that doesn't mean he's not gonna remind you every chance he gets.]]></rank>
+				<rank id="5"><![CDATA[The master unicorn builds his Zuma skills by going all out on every ball game he can find.]]></rank>
+				<rank id="6"><![CDATA[Avatar unicorn is so full of magic sometimes he sweats it out, but it's a good sweat.]]></rank>
+			</quote>
+			<quote id="27">
+				<rank id="1"><![CDATA[Feather of the Quetzalcoatl!]]></rank>
+				<rank id="2"><![CDATA[When the Quetzalcoatl wings his enormous self over the skyline, it's best to duck. Trust me on this.]]></rank>
+				<rank id="3"><![CDATA[Chief Quetzalcoatl accepts offerings, prayers, benedictions and certified money orders.]]></rank>
+				<rank id="4"><![CDATA[Many aeons have passed for the elder Quetzalcoatl, so many he even sometimes forgets his birthday until the week after.]]></rank>
+				<rank id="5"><![CDATA[Though the edicts of the master Quetzalcoatl may seem harsh, they're only designed to toughen you up.]]></rank>
+				<rank id="6"><![CDATA[Snaking from realms of mist and mystery, the avatar Quetzalcoatl is actually a pretty regular dude.]]></rank>
+			</quote>
+		</quotes>		
+	</spirit_animal_rankup_dialog>
+	<!-- ==================================================================================================================== -->
+	<powerups>
+		<powerup id="1">
+			<name>Bombs</name>
+			<tooltip><![CDATA[<p>Bomb balls added to rollout. Explode when matched!</p>]]></tooltip>
+			<tooltip_alt><![CDATA[<p>Bombs added to rollout<br/>[COST] Mojo/game</p>]]></tooltip_alt>
+		</powerup>
+		<powerup id="2">
+			<name>Multiplier</name>
+			<tooltip><![CDATA[<p>Starts your game with a x2 Multiplier.</p>]]></tooltip>
+			<tooltip_alt><![CDATA[<p>Game starts with x2 Multiplier<br/>[COST] Mojo/game</p>]]></tooltip_alt>
+		</powerup>	
+		<powerup id="3">
+			<name>Last Hurrah</name>
+			<tooltip><![CDATA[<p>Explodes special balls at the end of a game for extra points.</p>]]></tooltip>
+			<tooltip_alt><![CDATA[<p>Explodes at the end of a game for extra points<br/>[COST] Mojo/game</p>]]></tooltip_alt>
+		</powerup>		
+		<powerup id="4">
+			<name>Chrono Balls</name>
+			<tooltip><![CDATA[<p>Adds 1 second to Time Balls<br/>(for a total of 6 seconds).</p>]]></tooltip>
+			<tooltip_alt><![CDATA[<p>+1 second per Time Ball<br/>[COST] Mojo/game</p>]]></tooltip_alt>
+		</powerup>	
+		<powerup id="5">
+			<name>Cannon</name>
+			<tooltip><![CDATA[<p>Cannon balls added to rollout. Match for triple shot!</p>]]></tooltip>
+			<tooltip_alt><![CDATA[<p>Cannon balls added to rollout<br/>[COST] Mojo/game</p>]]></tooltip_alt>
+		</powerup>
+		<powerup id="6">
+			<name>Chain Blast</name>
+			<tooltip><![CDATA[<p>Causes an explosion to occur for a x10 chain.</p>]]></tooltip>
+			<tooltip_alt><![CDATA[<p>Explosion for a x10 chain<br/>[COST] Mojo/game</p>]]></tooltip_alt>
+		</powerup>
+		<powerup id="7">
+			<name>Speed Shot</name>
+			<tooltip><![CDATA[<p>Increases how fast your frog shoots by 10%.</p>]]></tooltip>
+			<tooltip_alt><![CDATA[<p>Shot speed increased by 10%<br/>[COST] Mojo/game</p>]]></tooltip_alt>
+		</powerup>
+		<powerup id="8">
+			<name>Inferno Frog</name>
+			<tooltip><![CDATA[<p>Gives Hot Frog 1 extra fireball shot<br/>(for a total of 4 shots).</p>]]></tooltip>
+			<tooltip_alt><![CDATA[<p>+1 fireball shot added to Hot Frog<br/>[COST] Mojo/game</p>]]></tooltip_alt>
+		</powerup>
+		<powerup id="9">
+			<name>Fruit Master</name>
+			<tooltip><![CDATA[<p>Increases how often Fruit appears!</p>]]></tooltip>
+			<tooltip_alt><![CDATA[<p>Fruit appears somewhat more often<br/>[COST] Mojo/game</p>]]></tooltip_alt>
+		</powerup>
+		<powerup id="10">
+			<name>Tiki Bombs</name>
+			<tooltip><![CDATA[<p>Makes Bombs show up quicker on rollout.</p>]]></tooltip>
+			<tooltip_alt><![CDATA[<p>Bombs added to rollout quicker<br/>[COST] Mojo/game</p>]]></tooltip_alt>
+		</powerup>
+		<powerup id="11">
+			<name>Tempus Fugit</name>
+			<tooltip><![CDATA[<p>Adds 2 seconds to Time Balls<br/>(for a total of 7 seconds).</p>]]></tooltip>
+			<tooltip_alt><![CDATA[<p>+2 seconds per Time Ball<br/>[COST] Mojo/game</p>]]></tooltip_alt>
+		</powerup>
+		<powerup id="12">
+			<name>Mega Hurrah</name>
+			<tooltip><![CDATA[<p>Explodes special balls at the end of a game for DOUBLE the points of Last Hurrah.</p>]]></tooltip>
+			<tooltip_alt><![CDATA[<p>Doubles point bonus for Last Hurrah<br/>[COST] Mojo/game</p>]]></tooltip_alt>
+		</powerup>
+		<powerup id="13">
+			<name>Multi-Multiplier</name>
+			<tooltip><![CDATA[<p>Starts your game with a x3 Multiplier.</p>]]></tooltip>
+			<tooltip_alt><![CDATA[<p>Game starts with x3 Multiplier<br/>[COST] Mojo/game</p>]]></tooltip_alt>
+		</powerup>		
+		<powerup id="14">
+			<name>Cannon King</name>
+			<tooltip><![CDATA[<p>Increases the frequency Cannon Balls come out in the rollout.</p>]]></tooltip>
+			<tooltip_alt><![CDATA[<p>Increased Cannon Ball frequency<br/>[COST] Mojo/game</p>]]></tooltip_alt>
+		</powerup>
+		<powerup id="15">
+			<name>Super Chain</name>
+			<tooltip><![CDATA[<p>Causes an explosion to occur for a x9 chain.</p>]]></tooltip>
+			<tooltip_alt><![CDATA[<p>Explosion for a x9 chain<br/>[COST] Mojo/game</p>]]></tooltip_alt>
+		</powerup>	
+		<powerup id="16">
+			<name>Super Speed</name>
+			<tooltip><![CDATA[<p>Increases how fast your frog shoots by 20%.</p>]]></tooltip>
+			<tooltip_alt><![CDATA[<p>Shot speed increased by 20%<br/>[COST] Mojo/game</p>]]></tooltip_alt>
+		</powerup>	
+		<powerup id="17">
+			<name>Sun Frog</name>
+			<tooltip><![CDATA[<p>Gives Hot Frog 2 extra fireball shots<br/>(for a total of 5 shots).</p>]]></tooltip>
+			<tooltip_alt><![CDATA[<p>+2 fireball shots added to Hot Frog<br/>[COST] Mojo/game</p>]]></tooltip_alt>
+		</powerup>	
+		<powerup id="18">
+			<name>Juicy Fruit</name>
+			<tooltip><![CDATA[<p>Increases how often Fruit appears!</p>]]></tooltip>
+			<tooltip_alt><![CDATA[<p>Fruit appears a lot more often.<br/>[COST] Mojo/game</p>]]></tooltip_alt>
+		</powerup>	
+		<powerup id="19">
+			<name>Voodoo Bombs</name>
+			<tooltip><![CDATA[<p>Increases the blast radius for Bomb balls.</p>]]></tooltip>
+			<tooltip_alt><![CDATA[<p>Voodoo Bombs added to rollout.<br/>[COST] Mojo/game</p>]]></tooltip_alt>
+		</powerup>	
+		<powerup id="20">
+			<name>Timelord</name>
+			<tooltip><![CDATA[<p>Adds 3 seconds to Time Balls<br/>(for a total of 8 seconds).</p>]]></tooltip>
+			<tooltip_alt><![CDATA[<p>+3 seconds per Time Ball<br/>[COST] Mojo/game</p>]]></tooltip_alt>
+		</powerup>	
+		<powerup id="21">
+			<name>Super Cannon</name>
+			<tooltip><![CDATA[<p>Adds an additional shot to the Cannon<br/>(for a total of 4 shots).</p>]]></tooltip>
+			<tooltip_alt><![CDATA[<p>Super Cannon Ball added to rollout<br/>[COST] Mojo/game</p>]]></tooltip_alt>
+		</powerup>	
+		<powerup id="22">
+			<name>Mega Chain</name>
+			<tooltip><![CDATA[<p>Increases the size of the explosion for a x9 chain.</p>]]></tooltip>
+			<tooltip_alt><![CDATA[<p>Increased explosion for a x9 chain<br/>[COST] Mojo/game</p>]]></tooltip_alt>
+		</powerup>	
+		<powerup id="23">
+			<name>Epic Fruit</name>
+			<tooltip><![CDATA[<p>Increases how often Fruit appears!</p>]]></tooltip>
+			<tooltip_alt><![CDATA[<p>Fruit appears around twice as often.<br/>[COST] Mojo/game</p>]]></tooltip_alt>
+		</powerup>	
+		<powerup id="24">
+			<name>Warp Speed</name>
+			<tooltip><![CDATA[<p>Increases how fast your frog shoots by 30%.</p>]]></tooltip>
+			<tooltip_alt><![CDATA[<p>Shot speed increased by 30%<br/>[COST] Mojo/game</p>]]></tooltip_alt>
+		</powerup>	
+	</powerups>    
+	<!-- ==================================================================================================================== -->
+	<topbar>
+		<xptallymeter>
+			<level_label><![CDATA[Level]]></level_label>
+		</xptallymeter>
+		<gamebar>
+			<resetbutton><![CDATA[Reset]]></resetbutton>
+			<pausebutton><![CDATA[Pause]]></pausebutton>
+		</gamebar>
+		<statsbar>
+			<storebutton><![CDATA[Store]]></storebutton>
+			<idolsbutton><![CDATA[Add Idols]]></idolsbutton>
+		</statsbar>
+	</topbar>
+	<!-- ==================================================================================================================== -->
+	<store>
+		<tooltips>
+			<items>
+				<item sku="mojo1"><![CDATA[Increases your Mojo balance]]></item>
+				<item sku="mojo2"><![CDATA[Increases your Mojo balance]]></item>
+				<item sku="mojo3"><![CDATA[Increases your Mojo balance]]></item>
+				<item sku="mojo4"><![CDATA[Increases your Mojo balance]]></item>
+				<item sku="mojo5"><![CDATA[Increases your Mojo balance]]></item>
+				<item sku="lifeonce"><![CDATA[Fills up all your empty hearts]]></item>
+				<item sku="life24hr"><![CDATA[Gives you unlimited hearts for the next 24 hours]]></item>
+				<item sku="mojopotion24hr2x"><![CDATA[TRIPLES the amount of Mojo you earn for the next 24 hours]]></item>
+				<item sku="mojopotion1"><![CDATA[TRIPLES the amount of Mojo you earn for the next [GAMES] games]]></item>
+				<item sku="mojopotion2"><![CDATA[TRIPLES the amount of Mojo you earn for the next [GAMES] games]]></item>
+				<item sku="xppotion24hr2x"><![CDATA[DOUBLES the amount of XP you earn for the next 24 hours]]></item>
+				<item sku="xppotion1"><![CDATA[DOUBLES the amount of XP you earn for the next [GAMES] games]]></item>
+				<item sku="xppotion2"><![CDATA[DOUBLES the amount of XP you earn for the next [GAMES] games]]></item>
+			</items>
+			<label><![CDATA[Use Idols to purchase special game items!]]></label>
+			<idol_count><![CDATA[Number of Idols you have.]]></idol_count>
+			<add_idols><![CDATA[Purchase more Idols with Facebook Credits!]]></add_idols>
+			<close_button><![CDATA[Close the Store]]></close_button>
+		</tooltips>
+		<header><![CDATA[Store]]></header>
+		<topbar>
+			<idols_button><![CDATA[Add Idols]]></idols_button>
+		</topbar>
+		<tab id="1">
+			<title><![CDATA[Mojo]]></title>
+			<desc><![CDATA[Fuel your Powers]]></desc>
+		</tab>
+		<tab id="2">
+			<title><![CDATA[Life]]></title>
+			<desc><![CDATA[Play more games]]></desc>
+		</tab>
+		<tab id="3">
+			<title><![CDATA[Potion]]></title>
+			<desc><![CDATA[Earn Mojo and XP faster]]></desc>
+		</tab>
+		<life24hr><![CDATA[24-Hour Life]]></life24hr>
+		<lifeRefill><![CDATA[Full Life Refill]]></lifeRefill>
+		<mojo24hr><![CDATA[Triple Mojo for 24-hrs]]></mojo24hr>
+		<mojogames><![CDATA[Triple Mojo for [GAMES] games]]></mojogames>
+		<xp24hr><![CDATA[Double XP for 24-hrs]]></xp24hr>
+		<xpgames><![CDATA[Double XP for [GAMES] games]]></xpgames>
+	</store>
+	<!-- ==================================================================================================================== -->
+	<products>
+		<product sku="mojo1" image="images/store/mojo1.png">25,000 Mojo</product>
+		<product sku="mojo2" image="images/store/mojo2.png">100,000 Mojo</product>
+		<product sku="mojo3" image="images/store/mojo3.png">250,000 Mojo</product>
+		<product sku="mojo4" image="images/store/mojo4.png">1,000,000 Mojo</product>
+		<product sku="mojo5" image="images/store/mojo5.png">5,000,000 Mojo</product>
+		<product sku="lifeonce" image="images/store/life_icon_on.png">Full Life Refill</product>
+		<product sku="lifeonce_discount1" image="images/store/life_icon_on.png">Full Life Refill</product>
+		<product sku="life24hr" image="images/store/life_icon_24_hour.png">24-Hour Life</product>
+		<product sku="mojopotion24hr2x" image="images/store/mojo_potion2.png">Triple Mojo for 24 hours</product>
+		<product sku="mojopotion1" image="images/store/mojo_potion1.png">Triple Mojo for [GAMES] games</product>
+		<product sku="mojopotion2" image="images/store/mojo_potion3.png">Triple Mojo for [GAMES] games</product>
+		<product sku="xppotion24hr2x" image="images/store/xp_potion2.png">Double XP for 24 hours</product>
+		<product sku="xppotion1" image="images/store/xp_potion1.png">Double XP for [GAMES] games</product>
+		<product sku="xppotion2" image="images/store/xp_potion3.png">Double XP for [GAMES] games</product>
+		<product sku="powerupbombs" image="images/unlocks/bombs.png">Bombs</product>
+		<product sku="powerupmultiplier" image="images/unlocks/multiplier_x2.png">x2 Multiplier</product>
+		<product sku="poweruphurrah" image="images/unlocks/lasthurrah.png">Last Hurrah</product>
+		<product sku="powerupschrono" image="images/unlocks/chronoballs.png">Chrono Balls</product>
+		<product sku="powerupscannon" image="images/unlocks/cannon.png">Cannon</product>
+		<product sku="powerupschain" image="images/unlocks/chainblast.png">Chain Blast</product>
+		<product sku="powerupspeedball" image="images/unlocks/speedball.png">Speed Ball</product>
+		<product sku="powerupinfernofrog" image="images/unlocks/infernofrog.png">Inferno Frog</product>
+		<product sku="powerupfruitmaster" image="images/unlocks/fruitmaster.png">Fruit Master</product>
+		<product sku="slot2open" image="images/unlocks/powerup_slot.png">Power-up Slot</product>
+		<product sku="slot3open" image="images/unlocks/powerup_slot.png">Power-up Slot</product>
+		<product sku="spinlock1open" image="images/unlocks/treasurechest.png">Spinner Unlock</product>
+		<product sku="spinlock2open" image="images/unlocks/treasurechest.png">Spinner Unlock</product>
+		<product sku="spinlock3open" image="images/unlocks/treasurechest.png">Spinner Unlock</product>
+		<product sku="spinlock4open" image="images/unlocks/treasurechest.png">Spinner Unlock</product>
+		<product sku="drmojooffer0" image="images/store/mojo_icon_on.png">25,000 Mojo</product>
+		<product sku="drmojooffer1" image="images/store/mojo_icon_on.png">100,000 Mojo</product>
+	</products>
+	<!-- ==================================================================================================================== -->
+	<purchase_dialog>
+		<buy_button><![CDATA[BUY]]></buy_button>
+		<cancel_button><![CDATA[CANCEL]]></cancel_button>
+		<header><![CDATA[Purchase [NAME]?]]></header>
+		<descriptions>
+			<desc category="mojo"><![CDATA[<p>Mojo lets you use Powers in your games.</p>]]></desc>
+			<desc category="life"><![CDATA[<p>Life lets you play more games.</p>]]></desc>
+			<desc category="potion"><![CDATA[<p>Potions let you earn Mojo or XP faster.</p>]]></desc>
+			<desc category="powerups"><![CDATA[<p>Powers add special balls and bonuses to your game.</p>]]></desc>
+			<desc category="powerupslots"><![CDATA[<p>Power Slots let you use more powers in your game.</p>]]></desc>
+			<desc category="spinlocks"><![CDATA[<p>Unlock a chance for even more treasure.</p>]]></desc>
+			<desc category="mojooffer"><![CDATA[<p>Mojo lets you use powers in your games.</p>]]></desc>
+		</descriptions>
+		<no_idols><![CDATA[<p>Not enough Idols.<br/>Would you like to use<br/>Facebook Credits?</p>]]></no_idols>
+	</purchase_dialog>
+	<!-- ==================================================================================================================== -->
+	<leaderboard>
+		<footer>
+			<invitebtn><![CDATA[<p>Invite</p>]]></invitebtn>
+		</footer>
+		<list>	
+			<item>
+				<statsflag_open><![CDATA[<p>Click<br/>for<br/>Stats</p>]]></statsflag_open>				
+				<no_score><![CDATA[<p>No Score This Week</p>]]></no_score>
+				<friend_invite><![CDATA[<p>Invite</p>]]></friend_invite>
+			</item>
+		</list>
+	</leaderboard>
+	<!-- ==================================================================================================================== -->
+	<gameplay_panel>
+		<nextfruitlabel><![CDATA[<p>pts</p>]]></nextfruitlabel>
+		<highscorelabel><![CDATA[<p>High Score</p>]]></highscorelabel>
+		<chainmultiplier><![CDATA[<p>Chain x[VALUE]</p>]]></chainmultiplier>
+	</gameplay_panel>
+	<!-- ==================================================================================================================== -->
+	<stats_panel>
+		<level_stats>
+			<level><![CDATA[<p>Level [LEVEL]</p>]]></level>
+			<level_label><![CDATA[<p>Level</p>]]></level_label>
+		</level_stats>
+		<medal_stats>
+			<header><![CDATA[<p>Tournament Medals</p>]]></header>
+			<gold_label><![CDATA[<p>Gold</p>]]></gold_label>
+			<silver_label><![CDATA[<p>Silver</p>]]></silver_label>
+			<bronze_label><![CDATA[<p>Bronze</p>]]></bronze_label>
+		</medal_stats>
+		<weekly_stats>
+			<footer><![CDATA[<p>LAST 5 WEEKS</p>]]></footer>
+		</weekly_stats>
+		<achievement_stats>
+			<locked><![CDATA[<p>Who waits in shadows? Spirits? Animals? Or maybe... <br/>SPIRIT ANIMALS!<br/>Unlocks at Level 4</p>]]></locked>
+			<locked_item><![CDATA[<p>Unlock<br/>at<br/>Level<br/>[LEVEL]</p>]]></locked_item>
+		</achievement_stats>
+	</stats_panel>
+	<!-- ==================================================================================================================== -->
+	<gifting>
+		<feed>
+			<messages>
+				<message id="1"><![CDATA[<p>You are crafty like lemur, trying to claim your own gift. We like your moxie. Alas, the spirits will only grant this to your friends.</p>]]></message>
+				<message id="2"><![CDATA[<p>You've already claimed the Zuma Blitz gift from this post.</p>]]></message>
+				<message id="3"><![CDATA[<p>The Zuma Blitz gift from this post have already been claimed.</p>]]></message>
+				<message id="4"><![CDATA[<p>You are not eligible to collect this Zuma Blitz gift.</p>]]></message>
+				<message id="5"><![CDATA[<p>You are not eligible to collect this Zuma Blitz gift.</p>]]></message>
+				<message id="6"><![CDATA[<p>Congratulations. You just received [GIFT]!</p>]]></message>			
+				<message id="7"><![CDATA[<p>You have moxie, frog, but this Mojo gift is for friends only. Play now to earn your own!</p>]]></message>					
+			</messages>
+		</feed>
+		<email>
+			<messages>
+				<message id="1"><![CDATA[<p>Uh oh, the Zuma Gods don’t quite understand what you’re trying for. Please try clicking on that link again.</p>]]></message>
+				<message id="2"><![CDATA[<p>The Zuma Gods don’t know what you’re trying to do, something about one to many “oogas” per “booga”… Please try clicking on that link again.</p>]]></message>
+				<message id="3"><![CDATA[<p>The Zuma Gods have consulted with one another and determined that this offer has expired. Frogs must be both wise and speedy to claim such gifts.</p>]]></message>
+				<message id="4"><![CDATA[<p>Clever monkey, you have already claimed that gift. The Zuma Gods like your moxie, but only one gift for you!</p>]]></message>
+				<message id="5"><![CDATA[<p>Kahonga!<br/>You have been granted a gift…<br/>[GIFT]!</p>]]></message>
+			</messages>
+		</email>
+	</gifting>
+	<!-- ==================================================================================================================== -->
+	<options>
+		<backToGame><![CDATA[Back to Game]]></backToGame>
+		<howToPlay><![CDATA[How to Play]]></howToPlay>
+		<colorBlind><![CDATA[Color Blind Mode]]></colorBlind>
+		<mute><![CDATA[Mute]]></mute>
+		<volume><![CDATA[Volume]]></volume>
+	</options>
+	<!-- ==================================================================================================================== -->
+	<help>
+		<back><![CDATA[Back]]></back>
+		<backToGame><![CDATA[Close]]></backToGame>
+		<startGame><![CDATA[Start Game]]></startGame>
+		<moreInfo><![CDATA[More Info]]></moreInfo>
+		<doNotShow><![CDATA[Don't Show Again]]></doNotShow>
+		<tutorial0><![CDATA[The Basics]]></tutorial0>
+		<tutorial1><![CDATA[Skillful Moves]]></tutorial1>
+		<tutorial0file>tutorial.swf</tutorial0file>
+		<tutorial1file>tutorial2.swf</tutorial1file>
+		<loading><![CDATA[Loading...]]></loading>
+		<errorLoading><![CDATA[[ ERROR ]]]></errorLoading>
+	</help>
+	<!-- ==================================================================================================================== -->
+</zuma_blitz>

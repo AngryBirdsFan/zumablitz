@@ -1,0 +1,210 @@
+<Config>
+
+	<!-- Settings from Zuma's Revenge, most not used in Zuma Blitz, or are hard coded into the LevelMgr class -->
+	
+	<Defaults cannonangle="15" cannon="1" cannonstack="false" lazer="4" lazerstack="false" BossTauntChance="5000" 
+				powerdelay="1500" powercooldown="1000" ColorNukeAfterZuma="true" ColorNukeTimeAfterZuma="100" MaxZumaPctForColorNuke="0"
+				ClearCurvePoints="2000" ClearCurveRolloutPct="10" ClearCurveSpeedMult="4.0"
+				UniquePowerupColor="true" PowerupCapAffectsTriggered="true" 
+				MultBallLife="1000" MultBallPoints="1000" MultiplierDuration="1200" NumForMultBase="15" NumForMultInc="3" MaxNumForMult="35" GauntletSessionLength="18000" MinMultSpawnDist="3" 
+				PointsForBronze="5000" PointsForSilver="10000" PointsForGold="15000" PointTimeAdd="650" NumPointsForTimeAdd="5000" 
+				PowerIncAtZumaPct="85" PowerInc="7" PZT="0" PZTSpeedInc="0" PZTSlowInc="0" PowerSpawnDelay="700" MultTimeAdd="0" ChallengeTFreq="500" 
+				PointsForExtraLife="50000" BossesCanAttackAffectedFrog="false" BossAttackDelayAfterHitFrog="700"
+				BeatGamePointsForLife="2000"
+				/>
+
+
+
+	<!-- Blitz Level -->
+
+	<!-- added by gren spirt -->
+	<Level id="lvl_beachball" dispname="Beach Ball" background="lvl_beachball" curve1="lvl_beachballa" curve2="lvl_beachballb" challengepoints="55000" acechallenge="80000" tfreq="1000" partime="8000" gauntlet="1" curve1skullangle="3.1416" curve2skullangle="3.1416">
+		<Gun type="normal" gx1="400" gy1="260"/>
+		<Tunnel layer="1" pri="1" x="77" y="0" chute="lvl_beachball_tunnel1" />
+		<Tunnel layer="1" pri="1" x="409" y="0" chute="lvl_beachball_tunnel2" />
+		<TreasurePoint x="32" y="81" dist1="10" />
+		<TreasurePoint x="155" y="486" dist1="54" />
+		<TreasurePoint x="718" y="81" dist1="10" />
+		<TreasurePoint x="570" y="486" dist1="54" />
+	</Level>
+
+	<Level id="lvl_9" dispname="Level 9" background="lvl_9" curve1="lvl_9a" curve2="lvl_9b" challengepoints="55000" acechallenge="80000" tfreq="1000" partime="8000" gauntlet="1">
+			<Gun type="normal" gx1="403" gy1="296"/>
+			<Tunnel layer="1" pri="1" x="0" y="0" chute="lvl_9_tunnel1" />
+			<Tunnel layer="1" pri="1" x="461" y="274" chute="lvl_9_tunnel2" />
+			<TreasurePoint x="649" y="111" dist1="46" />
+			<TreasurePoint x="75" y="468" dist2="45" />
+	</Level>
+
+	<Level id="lvl_9w" dispname="Level 9w" background="lvl_9w" curve1="lvl_9wa" curve2="lvl_9wb" challengepoints="55000" acechallenge="80000" tfreq="1000" partime="8000" gauntlet="1">
+		<Gun type="normal" gx1="403" gy1="296"/>
+		<Tunnel layer="1" pri="1" x="0" y="0" chute="lvl_9w_tunnel1" />
+		<Tunnel layer="1" pri="1" x="461" y="274" chute="lvl_9w_tunnel2" />
+		<TreasurePoint x="649" y="111" dist1="46" />
+		<TreasurePoint x="75" y="468" dist2="45" />
+	</Level>
+	
+	<Level id="lvl_16" dispname="Level 16" background="lvl_16" curve1="lvl_16a" curve2="lvl_16b" challengepoints="55000" acechallenge="80000" tfreq="1000" partime="7500">
+			<Gun type="normal" gx1="400" gy1="270" />
+			<Tunnel layer="1" pri="1" x="116" y="0" chute="lvl_16_tunnel1" />
+			<TreasurePoint x="250" y="491" dist1="50" />
+			<TreasurePoint x="703" y="500" dist2="35" />
+			<TreasurePoint x="475" y="491" dist2="50" />
+	</Level>
+
+	<Level id="lvl_24" dispname="Level 24" background="lvl_24" curve1="lvl_24a" curve2="lvl_24b" challengepoints="55000" acechallenge="80000" tfreq="1000" partime="8000" gauntlet="1" curve1skullangle="179" curve2skullangle="179">
+		<Gun type="normal" gx1="400" gy1="370"/>
+		<Tunnel layer="1" pri="2" x="63" y="360" chute="lvl_24_tunnel1" />
+		<Tunnel layer="2" pri="2" x="396" y="348" chute="lvl_24_tunnel2" />
+		<TreasurePoint x="95" y="123" dist1="54" />
+		<TreasurePoint x="31" y="507" dist1="10" />
+		<TreasurePoint x="663" y="123" dist1="54" />
+		<TreasurePoint x="716" y="504" dist1="10" />
+	</Level>
+
+
+	<Level id="lvl_30" dispname="Level 30" background="lvl_30" curve1="lvl_30a" curve2="lvl_30b" challengepoints="70000" acechallenge="90000" tfreq="1000" partime="11000" gauntlet="1">
+			<Gun type="normal" gx1="400" gy1="320"/>
+			<Tunnel layer="1" pri="2" x="0" y="0" chute="lvl_30_tunnel1" />
+			<Tunnel layer="2" pri="2" x="477" y="308" chute="lvl_30_tunnel2" />
+			<TreasurePoint x="58" y="480" dist1="67" />
+			<TreasurePoint x="692" y="87" dist1="66" />
+	</Level>
+
+	<Level id="lvl_50" dispname="Level 50" background="lvl_50" curve1="lvl_50a" curve2="lvl_50b" challengepoints="90000" acechallenge="125000" tfreq="1000" partime="11500" gauntlet="1" curve1skullangle="250" curve2skullangle="70">
+			<Gun type="normal" gx1="400" gy1="320"/>
+			<Tunnel layer="1" pri="1" x="53" y="42" chute="lvl_50_tunnel1" />
+			<Tunnel layer="2" pri="1" x="28" y="291" chute="lvl_50_tunnel2" />
+			<Tunnel layer="3" pri="1" x="403" y="80" chute="lvl_50_tunnel3" />
+			<Tunnel layer="4" pri="2" x="446" y="311" chute="lvl_50_tunnel4" />
+			<TreasurePoint x="71" y="525" dist1="23" />
+			<TreasurePoint x="644" y="45" dist2="23" />
+	</Level>
+	
+	<Level id="lvl_59" dispname="Level 59" background="lvl_59" dailydungeonpoints="0" acechallenge="85000" curve1="lvl_59_a" curve2="lvl_59_b" tfreq="1000" partime="16000" gauntlet="1">
+			<Gun type="normal" gx1="420" gy1="369" />
+			<Tunnel layer="1" pri="1" x="16" y="257" chute="lvl_59_tunnel1" />
+			<Tunnel layer="1" pri="1" x="385" y="289" chute="lvl_59_tunnel2" />
+			<TreasurePoint x="42" y="57" dist1="26" />
+			<TreasurePoint x="699" y="86" dist2="24" />
+	</Level>
+
+	<Level id="lvl_bones" dispname="lvl Bones" background="lvl_bones" curve1="lvl_bonesa" curve2="lvl_bonesb" challengepoints="55000" acechallenge="80000" tfreq="1000" partime="8000" gauntlet="1">
+			<Gun type="normal" gx1="400" gy1="310"/>
+			<Tunnel layer="1" pri="1" x="135" y="8" chute="lvl_bones_tunnel1" />
+			<Tunnel layer="1" pri="1" x="265" y="291" chute="lvl_bones_tunnel2" />
+			<TreasurePoint x="649" y="121" dist1="46" />
+			<TreasurePoint x="55" y="522" dist2="45" />
+	</Level>
+
+	<Level id="lvl_boss" dispname="Level Boss" background="lvl_boss" dailydungeonpoints="0" acechallenge="85000" curve1="lvl_boss_1" curve2="lvl_boss_2" tfreq="1000" partime="16000" gauntlet="1">
+			<Gun type="normal" gx1="402" gy1="294" />
+			<Tunnel layer="1" pri="1" x="59" y="0" chute="lvl_boss_tunnel1" />
+			<Tunnel layer="2" pri="1" x="396" y="342" chute="lvl_boss_tunnel2" />
+			<TreasurePoint x="191" y="482" dist1="64" />
+			<TreasurePoint x="554" y="92" dist2="63" />
+	</Level>
+
+	<Level id="lvl_aqua" dispname="lvl Aqua" background="lvl_aqua" curve1="lvl_aquaa" curve2="lvl_aquab" challengepoints="55000" acechallenge="80000" tfreq="1000" partime="8000" gauntlet="1">
+			<Gun type="normal" gx1="400" gy1="313"/>
+			<Tunnel layer="1" pri="1" x="196" y="64" chute="lvl_aqua_tunnel1" />
+			<Tunnel layer="1" pri="1" x="294" y="344" chute="lvl_aqua_tunnel2" />
+			<TreasurePoint x="37" y="54" dist1="25" />
+			<TreasurePoint x="712" y="503" dist2="25" />
+	</Level>
+	
+	<Level id="level3" dispname="Level 3" background="level3" curve1="level3_1" curve2="level3_2" challengepoints="55000" acechallenge="80000" tfreq="1000" partime="8000" gauntlet="1" curve1skullangle="179" curve2skullangle="179">
+			<Gun type="normal" gx1="400" gy1="260" />
+			<Tunnel layer="1" pri="1" x="55" y="0" chute="level3_tunnel1" />
+			<Tunnel layer="1" pri="1" x="394" y="0" chute="level3_tunnel2" />
+			<TreasurePoint x="32" y="81" dist1="10" />
+			<TreasurePoint x="155" y="486" dist1="54" />
+			<TreasurePoint x="718" y="81" dist1="10" />
+			<TreasurePoint x="570" y="486" dist1="54" />
+	</Level>
+
+	<Level id="lvl_valentine" dispname="Valentine" background="lvl_valentine" curve1="valentinea" curve2="valentineb" challengepoints="55000" acechallenge="80000" tfreq="1000" partime="8000" gauntlet="1" curve1skullangle="179" curve2skullangle="179">
+		<Gun type="normal" gx1="400" gy1="320" />
+		<Tunnel layer="1" pri="1" x="224" y="20" chute="lvl_valentine_tunnel1" />
+		<Tunnel layer="1" pri="1" x="17" y="293" chute="lvl_valentine_tunnel2" />
+		<Tunnel layer="1" pri="1" x="461" y="272" chute="lvl_valentine_tunnel3" />
+		<TreasurePoint x="21" y="65" dist1="40" />
+		<TreasurePoint x="732" y="68" dist2="40" />
+	</Level>
+
+	<Level id="lvl_snakes" dispname="Snakes" background="lvl_snakes" curve1="lvl_snakesa" curve2="lvl_snakesb" challengepoints="55000" acechallenge="80000" tfreq="1000" partime="8000" gauntlet="1">
+		<Gun type="normal" gx1="400" gy1="300" />
+		<Tunnel layer="1" pri="1" x="423" y="0" chute="lvl_snakes_tunnel1" />
+		<Tunnel layer="1" pri="1" x="0" y="326" chute="lvl_snakes_tunnel2" />
+		<TreasurePoint x="54" y="371" dist1="33" />
+		<TreasurePoint x="692" y="168" dist2="33" />
+	</Level>
+
+	<Level id="lvl_crossroads" dispname="Crossroads" background="lvl_crossroads" curve1="lvl_crossroadsa" curve2="lvl_crossroadsb" challengepoints="55000" acechallenge="80000" tfreq="1000" partime="8000" gauntlet="1" curve1skullangle="179" curve2skullangle="179">
+		<Gun type="normal" gx1="400" gy1="300" />
+		<Tunnel layer="1" pri="1" x="206" y="0" chute="lvl_crossroads_tunnel1" />
+		<Tunnel layer="1" pri="1" x="203" y="303" chute="lvl_crossroads_tunnel2" />
+		<Tunnel layer="1" pri="1" x="25" y="161" chute="lvl_crossroads_tunnel3" />
+		<Tunnel layer="1" pri="1" x="421" y="161" chute="lvl_crossroads_tunnel4" />
+		<TreasurePoint x="14" y="388" dist1="35" />
+		<TreasurePoint x="735" y="388" dist2="35" />
+		<TreasurePoint x="373" y="533" dist2="50" />
+	</Level>
+
+	<Level id="lvl_arch" dispname="Level Arch" background="lvl_arch" curve1="lvl_archa" curve2="lvl_archb" challengepoints="55000" acechallenge="80000" tfreq="1000" partime="8000" gauntlet="1" curve1skullangle="179" curve2skullangle="179">
+		<Gun type="normal" gx1="400" gy1="300"/>
+		<Tunnel layer="1" pri="2" x="30" y="57" chute="lvl_arch_tunnel1" />
+		<Tunnel layer="2" pri="2" x="420" y="58" chute="lvl_arch_tunnel2" />
+		<Tunnel layer="3" pri="2" x="473" y="185" chute="lvl_arch_tunnel3" />
+		<TreasurePoint x="532" y="504" dist1="30" />
+		<TreasurePoint x="471" y="44" dist1="30" />
+		<TreasurePoint x="27" y="91" dist1="51" />
+	</Level>
+
+<Level id="lvl_happy" dispname="Happy" background="lvl_happy" curve1="lvl_happya" curve2="lvl_happyb" challengepoints="55000" acechallenge="80000" tfreq="1000" partime="8000" gauntlet="1">
+		<Gun type="normal" gx1="400" gy1="330" />
+		<Tunnel layer="1" pri="1" x="30" y="96" chute="lvl_happy_tunnel1" />
+		<Tunnel layer="1" pri="2" x="218" y="35" chute="lvl_happy_tunnel2" />
+		<Tunnel layer="1" pri="1" x="467" y="96" chute="lvl_happy_tunnel3" />
+		<Tunnel layer="1" pri="1" x="233" y="342" chute="lvl_happy_tunnel4" />
+		<TreasurePoint x="150" y="85" dist1="35" />
+		<TreasurePoint x="600" y="85" dist2="35" />
+		<TreasurePoint x="50" y="511" dist1="60" />
+		<TreasurePoint x="700" y="511" dist2="60" />
+	</Level>
+
+<Level id="lvl_orbit" dispname="orbit" background="lvl_orbit" curve1="lvl_orbita" curve2="lvl_orbitb" challengepoints="55000" acechallenge="80000" tfreq="1000" partime="8000" gauntlet="1">
+		<Gun type="normal" gx1="400" gy1="300" />
+		<Tunnel layer="1" pri="1" x="345" y="0" chute="lvl_orbit_tunnel1" />
+		<Tunnel layer="1" pri="1" x="38" y="301" chute="lvl_orbit_tunnel2" />
+		<TreasurePoint x="671" y="462" dist1="30" />
+		<TreasurePoint x="147" y="40" dist2="30" />
+	</Level>
+
+	<Level id="lvl_abovenbelow" dispname="Above and Below" background="lvl_abovenbelow" curve1="lvl_abovenbelowa" 	curve2="lvl_abovenbelowb" challengepoints="55000" acechallenge="80000" tfreq="1000" partime="8000" gauntlet="1">
+		<Gun type="normal" gx1="400" gy1="300"/>
+		<Tunnel layer="1" pri="2" x="181" y="0" chute="lvl_abovenbelow_tunnel1" />
+		<Tunnel layer="2" pri="2" x="239" y="348" chute="lvl_abovenbelow_tunnel2" />
+		<TreasurePoint x="675" y="175" dist1="40" />
+		<TreasurePoint x="72" y="361" dist2="40" />
+		<TreasurePoint x="17" y="54" dist1="60" />
+		<TreasurePoint x="728" y="520" dist2="60" />
+	</Level>
+
+	<Level id="lvl_hex" dispname="Level Hex" background="lvl_hex" curve1="lvl_hexa" curve2="lvl_hexb" challengepoints="55000" acechallenge="80000" tfreq="1000" partime="8000" gauntlet="1" curve1skullangle="179" curve2skullangle="179">
+		<Gun type="normal" gx1="400" gy1="300"/>
+		<Tunnel layer="1" pri="2" x="41" y="234" chute="lvl_hex_tunnel1" />
+		<Tunnel layer="2" pri="2" x="477" y="177" chute="lvl_hex_tunnel2" />
+		<TreasurePoint x="31" y="141" dist1="11" />
+		<TreasurePoint x="706" y="141" dist1="11" />
+	</Level>
+
+
+	<!-- Daily Dungeon settings-->	
+	
+	
+	
+	<!-- Daily Dungeon level-->	
+
+		
+</Config>

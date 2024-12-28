@@ -1,0 +1,129 @@
+<?xml version="1.0"?>
+<!DOCTYPE cross-domain-policy
+  SYSTEM "http://www.macromedia.com/xml/dtds/cross-domain-policy.dtd">
+<cross-domain-policy>
+	<allow-access-from domain="popcap.com" secure="false"/>
+	<allow-access-from domain="www.popcap.com" secure="false"/>
+	<allow-access-from domain="facebook.com" secure="false"/>
+	<allow-access-from domain="www.facebook.com" secure="false"/>
+	<allow-access-from domain="www.google.com" secure="false"/>
+	<allow-access-from domain="playzumablitz.com" secure="false"/>
+
+	<allow-access-from domain="game.local.playzumablitz.com" secure="false"/>
+	<allow-access-from domain="origin.local.playzumablitz.com" secure="false"/>
+	<allow-access-from domain="ecl01.local.playzumablitz.com" secure="false"/>
+	<allow-access-from domain="ecl02.local.playzumablitz.com" secure="false"/>
+	<allow-access-from domain="ecl03.local.playzumablitz.com" secure="false"/>
+	<allow-access-from domain="ecl04.local.playzumablitz.com" secure="false"/>
+	<allow-access-from domain="callback.local.playzumablitz.com" secure="false"/>
+	<allow-access-from domain="local.playbejeweledblitzplus.com" secure="false"/>
+	<allow-access-from domain="ecl.local.playbejeweledblitzplus.com" secure="false"/>
+
+	<allow-access-from domain="game.test.playzumablitz.com" secure="false"/>
+	<allow-access-from domain="origin.test.playzumablitz.com" secure="false"/>
+	<allow-access-from domain="ecl01.test.playzumablitz.com" secure="false"/>
+	<allow-access-from domain="ecl02.test.playzumablitz.com" secure="false"/>
+	<allow-access-from domain="ecl03.test.playzumablitz.com" secure="false"/>
+	<allow-access-from domain="ecl04.test.playzumablitz.com" secure="false"/>
+	<allow-access-from domain="callback.test.playzumablitz.com" secure="false"/>
+	<allow-access-from domain="mtr-fzbds.test.vte.internal.popcap.com" secure="false"/>
+	<allow-access-from domain="mtr-fzb.test.vte.internal.popcap.com" secure="false"/>
+	<allow-access-from domain="mtr-fzbm.test.vte.internal.popcap.com" secure="false"/>
+	<allow-access-from domain="mtr-fzbv.test.vte.internal.popcap.com" secure="false"/>
+	<allow-access-from domain="mtr-fzbe.test.vte.internal.popcap.com" secure="false"/>
+	<allow-access-from domain="game.test.playbejeweledblitzplus.com" secure="false"/>
+	<allow-access-from domain="ecl.test.playbejeweledblitzplus.com" secure="false"/>
+	<allow-access-from domain="external.test.playbejeweledblitzplus.com" secure="false"/>
+	<allow-access-from domain="ecl.dvl.playbejeweledblitzplus.com" secure="false"/>
+	<allow-access-from domain="game.dvl.playbejeweledblitzplus.com" secure="false"/>
+
+	<allow-access-from domain="labs.almost.vte.internal.popcap.com" secure="false"/>
+    <allow-access-from domain="labs-almost-aws.popcap.com" secure="false"/>
+	<allow-access-from domain="labs.almost.vte.popcap.com" secure="false"/>
+    <allow-access-from domain="labs-bjb.beta.vte.popcap.com" secure="false"/>
+    <allow-access-from domain="labs-beta-aws.popcap.com" secure="false"/>
+    <allow-access-from domain="labs.beta.vte.popcap.com" secure="false"/>
+    <allow-access-from domain="labs-beta-cdn.popcap.com" secure="false"/>
+    <allow-access-from domain="bjb-beta-ecl.labs.popcap.com" secure="false"/>
+    <allow-access-from domain="ecl.labs.test.vte.internal.popcap.com" secure="false"/>
+	<allow-access-from domain="ecl.labs.almost.vte.internal.popcap.com" secure="false"/>
+	<allow-access-from domain="bjb-almost-ecl.labs.popcap.com" secure="false"/>
+    <allow-access-from domain="labs-almost-cdn.popcap.com" secure="false"/>
+    <allow-access-from domain="labs-int-aws.popcap.com" secure="false"/>
+    <allow-access-from domain="labs-int-cdn.popcap.com" secure="false"/>
+	<allow-access-from domain="game.almost.playzumablitz.com" secure="false"/>
+	<allow-access-from domain="origin.almost.playzumablitz.com" secure="false"/>
+	<allow-access-from domain="ecl01.almost.playzumablitz.com" secure="false"/>
+	<allow-access-from domain="ecl02.almost.playzumablitz.com" secure="false"/>
+	<allow-access-from domain="ecl03.almost.playzumablitz.com" secure="false"/>
+	<allow-access-from domain="ecl04.almost.playzumablitz.com" secure="false"/>
+	<allow-access-from domain="callback.almost.playzumablitz.com" secure="false"/>
+	<allow-access-from domain="mtr-fzbds.almost.vte.internal.popcap.com" secure="false"/>
+	<allow-access-from domain="mtr-fzb.almost.vte.internal.popcap.com" secure="false"/>
+	<allow-access-from domain="mtr-fzbm.almost.vte.internal.popcap.com" secure="false"/>
+	<allow-access-from domain="mtr-fzbv.almost.vte.internal.popcap.com" secure="false"/>
+	<allow-access-from domain="mtr-fzbe.almost.vte.internal.popcap.com" secure="false"/>
+	<allow-access-from domain="game.almost.playbejeweledblitzplus.com" secure="false"/>
+	<allow-access-from domain="ecl.almost.playbejeweledblitzplus.com" secure="false"/>
+	<allow-access-from domain="external.almost.playbejeweledblitzplus.com" secure="false"/>
+	<allow-access-from domain="ecl.stg.playbejeweledblitzplus.com" secure="false"/>
+	<allow-access-from domain="bjbp-stg-ecl.labs.popcap.com" secure="false"/>
+	<allow-access-from domain="game.stg.playbejeweledblitzplus.com" secure="false"/>
+
+	<allow-access-from domain="branch-zb01.vte.internal.popcap.com" secure="false"/>
+	<allow-access-from domain="ecl1.branch-zb01.vte.internal.popcap.com" secure="false"/>
+	<allow-access-from domain="ecl2.branch-zb01.vte.internal.popcap.com" secure="false"/>
+	<allow-access-from domain="game.zumadev.playzumablitz.com" secure="false"/>
+	<allow-access-from domain="origin.zumadev.playzumablitz.com" secure="false"/>
+	<allow-access-from domain="ecl01.zumadev.playzumablitz.com" secure="false"/>
+	<allow-access-from domain="ecl02.zumadev.playzumablitz.com" secure="false"/>
+	<allow-access-from domain="ecl03.zumadev.playzumablitz.com" secure="false"/>
+	<allow-access-from domain="ecl04.zumadev.playzumablitz.com" secure="false"/>
+
+	<allow-access-from domain="labs.popcap.com" secure="false"/>
+    <allow-access-from domain="labs-aws.popcap.com" secure="false"/>
+	<allow-access-from domain="dl.labs.popcap.com" secure="false"/>
+	<allow-access-from domain="ec.labs.popcap.com" secure="false"/>
+	<allow-access-from domain="ecl.labs.popcap.com" secure="false"/>
+    <allow-access-from domain="labs-cdn.popcap.com" secure="false"/>
+    <allow-access-from domain="labs-origin.popcap.com" secure="false"/>
+	<allow-access-from domain="game.live.playzumablitz.com" secure="false"/>
+	<allow-access-from domain="origin.live.playzumablitz.com" secure="false"/>
+	<allow-access-from domain="ecl01.live.playzumablitz.com" secure="false"/>
+	<allow-access-from domain="ecl02.live.playzumablitz.com" secure="false"/>
+	<allow-access-from domain="ecl03.live.playzumablitz.com" secure="false"/>
+	<allow-access-from domain="ecl04.live.playzumablitz.com" secure="false"/>
+	<allow-access-from domain="1-zb-ecl.labs.popcap.com" secure="false"/>
+	<allow-access-from domain="2-zb-ecl.labs.popcap.com" secure="false"/>
+	<allow-access-from domain="3-zb-ecl.labs.popcap.com" secure="false"/>
+	<allow-access-from domain="4-zb-ecl.labs.popcap.com" secure="false"/>
+	<allow-access-from domain="mtr-labs.popcap.com" secure="false"/>
+	<allow-access-from domain="mtr-fzbds.popcap.com" secure="false"/>
+	<allow-access-from domain="mtr-fzb.popcap.com" secure="false"/>
+	<allow-access-from domain="mtr-fzbm.popcap.com" secure="false"/>
+	<allow-access-from domain="mtr-fzbv.popcap.com" secure="false"/>
+	<allow-access-from domain="mtr-fzbe.popcap.com" secure="false"/>
+	<allow-access-from domain="game.playbejeweledblitzplus.com" secure="false"/>
+	<allow-access-from domain="bjbp-prd-ecl.labs.popcap.com" secure="false"/>
+	<allow-access-from domain="ecl.playbejeweledblitzplus.com" secure="false"/>
+
+	<allow-access-from domain="game.future.playzumablitz.com" secure="false"/>
+	<allow-access-from domain="origin.future.playzumablitz.com" secure="false"/>
+	<allow-access-from domain="ecl01.future.playzumablitz.com" secure="false"/>
+	<allow-access-from domain="ecl02.future.playzumablitz.com" secure="false"/>
+	<allow-access-from domain="ecl03.future.playzumablitz.com" secure="false"/>
+	<allow-access-from domain="ecl04.future.playzumablitz.com" secure="false"/>
+
+    <allow-access-from domain="solb-dvl.awspopcap.com" secure="false"/>
+    <allow-access-from domain="solb-stg.awspopcap.com" secure="false"/>
+    <allow-access-from domain="solb-prd.awspopcap.com" secure="false"/>
+    <allow-access-from domain="solitaire-blitz.deltanet.homeip.net" secure="false"/>
+    <allow-access-from domain="sblitz.shop.popcap.com" secure="false"/>
+    <allow-access-from domain="silver.sblitz.shop.popcap.com" secure="false"/>
+    <allow-access-from domain="solb-dvl-ecl.labs.popcap.com" secure="false" />
+    <allow-access-from domain="solb-stg-ecl.labs.popcap.com" secure="false" />
+    <allow-access-from domain="solb-prd-ecl.labs.popcap.com" secure="false" />
+    <allow-access-from domain="d14sdacth28u43.cloudfront.net" secure="false" />
+    <allow-access-from domain="s3.amazonaws.com" secure="false" />
+</cross-domain-policy>
+

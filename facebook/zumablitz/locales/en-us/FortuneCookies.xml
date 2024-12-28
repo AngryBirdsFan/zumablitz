@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fortune_cookies>  
+	<!-- ==================================================================================================================== -->
+	<dialog>
+		<title><![CDATA[Fortune Cookies!]]></title>
+		
+		<footer><![CDATA[Many more Fortune Cookies left.<br/>Share with friends?]]></footer>
+		
+		<share_btn><![CDATA[Share Cookie]]></share_btn>
+		<skip_btn><![CDATA[Skip]]></skip_btn>	
+		
+		<rewards>
+			<reward id="mojo"><![CDATA[Mojo +[AMOUNT]]]></reward>
+			<reward id="idols"><![CDATA[Idols +[AMOUNT]]]></reward>
+			<reward id="life"><![CDATA[Life Refill]]></reward>
+			<bonus_header><![CDATA[Freshness Bonus]]></bonus_header>
+		</rewards>
+		
+			
+		<gifted>
+			<header><![CDATA[You received yummy Fortune Cookie!<br/>Open for a special surprise!]]></header>
+		</gifted>		
+		<nongifted>
+			<header><![CDATA[I bake you Fortune Cookie...<br/>Open for a special surprise!]]></header>
+		</nongifted>		
+		<new_user>
+			<header><![CDATA[Welcome! Me Dr. Mojo.<br/>[NAME] send you yummy Fortune Cookie.]]></header>
+		</new_user>		
+	</dialog>
+	<wordbubble>
+		<gift_received><![CDATA[You received Fortune Cookie from friend!<br/>Click it to open!]]></gift_received>
+		<gift_open><![CDATA[You received<br/>[COUNT]<br/>Fortune Cookie!]]></gift_open>
+		<gift_bonus><![CDATA[You've got some fresh cookies!]]></gift_bonus>
+		<cookie_received><![CDATA[You received Fortune Cookie!<br/>Click it to open!]]></cookie_received>
+		<cookie_open><![CDATA[You better share this shit!]]></cookie_open>
+	</wordbubble>
+	<!-- ==================================================================================================================== -->
+	<fortunes>
+		<category id="100">
+			<fortune id="101"><![CDATA[Beware of small dogs and big cats.]]></fortune>
+			<fortune id="102"><![CDATA[Never look an elephant in the eye.]]></fortune>
+			<fortune id="103"><![CDATA[If you were thinking about a burrito for lunch, think again.]]></fortune>
+			<fortune id="104"><![CDATA[For one day make yellow your favorite color. Get pumped about it!]]></fortune>
+			<fortune id="105"><![CDATA[Dreams start in your head but end up in your legs.]]></fortune>
+			<fortune id="106"><![CDATA[Try doing something new and exciting.<br/>Not skydiving, though.]]></fortune>
+			<fortune id="107"><![CDATA[Every time you step on a crack,<br/>somebody drops a pancake on the floor.]]></fortune>
+			<fortune id="108"><![CDATA[Portents portend something potentially portentous.]]></fortune>
+			<fortune id="109"><![CDATA[Today, try the soup instead of the salad. Trust me.]]></fortune>
+			<fortune id="110"><![CDATA[When dining out, always go for the special. It’s usually good!]]></fortune>
+		</category>		
+	</fortunes>
+	<!-- ==================================================================================================================== -->
+</fortune_cookies>
